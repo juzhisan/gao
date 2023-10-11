@@ -9,7 +9,8 @@
     },{"key":"lf_js_search","name":"搜索lf","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/lf_search3_min.js"},
 {"key": "直播转点播","name":"🐼️┃电视┃直播","type": 3,"api":"https://agit.ai/juzhisan/TVB/raw/branch/main/JS/%e7%9b%b4%e6%92%ad%e8%bd%ac%e7%82%b9%e6%92%ad2.js","ext":"https://agit.ai/juzhisan/TVB/raw/branch/main/TV/myzb.json"},
 {"key":"lf_js_lf_live","name":"直播lf","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/juzhisan/gao/raw/branch/master/js/lf_live.txt"},
-{
+
+	{"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},{
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥",
       "type": 3,
