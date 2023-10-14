@@ -70,18 +70,7 @@
     
   {"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
  
- {"key":"荐片","name":"荐片┃弹幕","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1012.jar;md5;275bf48978d1bbfd1f04d64beebbbb80","timeout":30},
-  {
-            "key": "南瓜影视",
-            "name": "南瓜影视",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "","jar": "https://jihulab.com/juzhi/tv/-/raw/main/jar/qj930.jar"
-        },
-        
+ {"key":"荐片","name":"荐片┃弹幕","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1012.jar;md5;275bf48978d1bbfd1f04d64beebbbb80","timeout":30},{"key":"荐片","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}, "timeout":30,"jar": "./jar/1013.jar"},
   {
       "key": "csp_Czsapp",
       "name": "🗯️厂长┃直连",
@@ -165,8 +154,8 @@
             "ext":"https://xhdwc.tk/js/子子影视.js"
         }, 
      {"key":"kkys","name":"影视 | 快看","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/cat/js/kkys_open.js"},
-     { "key":"Xinsj", "name":"新视觉", "type":3, "api":"csp_Xinsj", "searchable":1, "quickSearch":1, "changeable":1, "ext":"https://www.6080yy3.com/" ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key":"kuaikan", "name":"快看", "type":3, "api":"csp_Kuaikan", "searchable":1, "quickSearch":1, "changeable":1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key":"Vofl", "name":"VOF", "type":3, "api":"csp_Voflix", "searchable":1, "quickSearch":1, "changeable":1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key": "csp_AppMr", "name": "明明", "type": 3, "api": "csp_AppMr", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{"key":"csp_SP33","name":"三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://agit.ai/juzhisan/gao/raw/branch/master/jar/fan.txt"},{"key":"csp_Sp360","name":"360影视┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1012.jar;md5;275bf48978d1bbfd1f04d64beebbbb80"},
-{"key":"csp_Jojo","name":"JOJO影视┃弹幕","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1012.jar;md5;275bf48978d1bbfd1f04d64beebbbb80"},
+     { "key":"Xinsj", "name":"新视觉", "type":3, "api":"csp_Xinsj", "searchable":1, "quickSearch":1, "changeable":1, "ext":"https://www.6080yy3.com/" ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key":"kuaikan", "name":"快看", "type":3, "api":"csp_Kuaikan", "searchable":1, "quickSearch":1, "changeable":1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key":"Vofl", "name":"VOF", "type":3, "api":"csp_Voflix", "searchable":1, "quickSearch":1, "changeable":1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key": "csp_AppMr", "name": "明明", "type": 3, "api": "csp_AppMr", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{"key":"csp_SP33","name":"三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://agit.ai/juzhisan/gao/raw/branch/master/jar/fan.txt"},{"key":"csp_Sp360","name":"360影视┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1013.jar"},
+{"key":"csp_Jojo","name":"JOJO影视┃弹幕","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1013.jar"},
 
 {"key":"drpy_js_百忙无果","name":"弹幕 | 芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
 {"key":"drpy_js_腾云驾雾","name":"弹幕 | 腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
