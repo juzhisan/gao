@@ -92,70 +92,40 @@
       "quickSearch": 1,
       "changeable": 1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
     },
-{
-			"key": "ok",
-			"name": "Free",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"jar": "https://agit.ai/juzhisan/gao/raw/branch/master/jar/XBPQ.jar",
-			"ext": {
-				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
-				"分类": "电影&剧集&动漫&综艺",
-				"搜索url": "https://www.cupfox.app/s/{wd}",
-				"分类值": "1&2&3&4",
-				"嗅探词": "m3u8#.m3u8#.mp4#mp4",
-				"搜索二次截取": "type=\"application/json\">&&</script>",
-				"搜索数组": "{\"te&&}[包含:freeok]",
-				"搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
-				"搜索标题": "xt\":\"&&\"",
-				"搜索链接": "\"url\":\"&&\"",
-				"搜索副标题": "FREEOK",
-				"搜索模式": "1",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"简介": "<p>&&</p>"
-			}
-		},
-{
-            "key":"drpy_js_南瓜影视",
-            "name":"南瓜影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/南瓜影视.js"
-        },{
-            "key":"drpy_js_新视觉影视",
-            "name":"新视觉影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/新视觉影视.js"
-        },
-        
-       {
-            "key":"drpy_js_素白白",
-            "name":"素白白[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/素白白.js"
-        },
-        {
-            "key":"drpy_js_HDmoli",
-            "name":"HDmoli[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/HDmoli.js"
-        },
-        
-        {
-            "key":"drpy_js_子子影视",
-            "name":"子子影视[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy1.min.js",
-            "ext":"https://xhdwc.tk/js/子子影视.js"
-        }, 
-     {"key":"kkys","name":"影视 | 快看","type":3,"api":"https://agit.ai/juzhisan/gao/raw/branch/master/cat/js/kkys_open.js"},
-     { "key":"Xinsj", "name":"新视觉", "type":3, "api":"csp_Xinsj", "searchable":1, "quickSearch":1, "changeable":1, "ext":"https://www.6080yy3.com/" ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key":"kuaikan", "name":"快看", "type":3, "api":"csp_Kuaikan", "searchable":1, "quickSearch":1, "changeable":1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key":"Vofl", "name":"VOF", "type":3, "api":"csp_Voflix", "searchable":1, "quickSearch":1, "changeable":1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key": "csp_AppMr", "name": "明明", "type": 3, "api": "csp_AppMr", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{"key":"csp_SP33","name":"三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://agit.ai/juzhisan/gao/raw/branch/master/jar/fan.txt"},{"key":"csp_Sp360","name":"360影视┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1013.jar"},
-{"key":"csp_Jojo","name":"JOJO影视┃弹幕","type":3,"api":"csp_Jojo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1013.jar"},
+    {
+      "key": "布蕾影视",
+      "name": "布蕾┃影视",
+      "jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879",
+      "type": 3,
+      "api": "csp_Appto",
+      "playerType": 2,
+      "ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="
+    },{
+      "key": "JOJO",
+      "name": "JOJO┃BPQ",
+      "type": 3,
+      "jar": "http://xhww.fun:63/小米/ab12.jar;md5;41462cffb79f8bb10fb5250cc3e2e170",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
+        "数组": "<a&&</a>",
+        "图片": "src=\"&&\"",
+        "标题": "class=\"card-title\">&&</p>",
+        "副标题": "class=\"item-speed\">&&</p>",
+        "链接": "href=\"&&\"",
+        "播放请求头": "User-Agent$AppleCoreMedia/1.0.0.17D50 (iPhone; U; CPU OS 13_3_2 like Mac OS X; zh_cn)",
+        "线路标题": "JOJO",
+        "播放数组": "class=\"plyr-sidebar-list&&</div>",
+        "嗅探词": "aliyundrive.net#alicloudccp.com#m3u8",
+        "搜索url": "https://jiohub.top/video/search?q={wd}&pid=-qlDbwwDcZ8t1hJN7H0sGh36bnsUqsuyQ2drIL4zs0s=",
+        "分类": "电影$电影#国产$国产#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
+        "分类url": "https://jojo.bdys.top/video/{cateId}?page={catePg}&size=18;;u0J"
+      }
+    },
+     { "key":"Xinsj", "name":"新视觉", "type":3, "api":"csp_Xinsj", "searchable":1, "quickSearch":1, "changeable":1, "ext":"https://www.6080yy3.com/" ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, { "key":"kuaikan", "name":"快看", "type":3, "api":"csp_Kuaikan", "searchable":1, "quickSearch":1, "changeable":1 ,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"}, {"key":"csp_SP33","name":"三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://agit.ai/juzhisan/gao/raw/branch/master/jar/fan.txt"},{"key":"csp_Sp360","name":"360影视┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1013.jar"},
 
 {"key":"drpy_js_百忙无果","name":"弹幕 | 芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
 {"key":"drpy_js_腾云驾雾","name":"弹幕 | 腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
@@ -180,7 +150,7 @@
 {"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/tvfan/token.json"},
 {"key":"Sean","name":"肖恩","type":3,"api":"csp_Sean","ext":"http://127.0.0.1:9978/file/tvfan/token.json"},
 {"key":"csp_Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$socks5://192.168.1.9:4592","timeout":30},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},{"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"drpy_js_ddys","name":"低端影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_libvio","name":"libvio[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js", "quickSearch":1, "changeable":1, "timeout":30},{"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys_d.js"},
 {"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
