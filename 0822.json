@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./jar/101903.jar;md5;51f2a7925cee9862d5f246521267e8ab",
+"spider":"./jar/1020.jar;md5;fd5d79d0b3c4b450590fbe5425be102d",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
@@ -25,6 +25,7 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"饭饭","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
+{"name":"视界","type":1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url="},
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"全民","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
@@ -35,5 +36,6 @@
 {"name":"咸鱼","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://www.xyflv.cc/"}}},
 {"name":"云解析","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}}
-]
+],
+"rules":[{"name":"proxy","hosts":["dmku.thefilehosting.com"]}]
 }
