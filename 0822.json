@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./jar/1022.jar;md5;6426929d664ff6990b8d2f3628f499a9",
+"spider":"./jar/1023.jar;md5;fd295ab17dcb7631145ec8b73d62724f",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"lf_js_search","name":"豆瓣","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
@@ -29,5 +29,5 @@
 {"name":"云解析","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}}
 ],
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
-"rules":[{"name":"proxy","hosts":["dmku.thefilehosting.com"]}]
+"rules":[{"name":"proxy","hosts":["wogg.xyz","dmku.thefilehosting.com"]}]
 }
