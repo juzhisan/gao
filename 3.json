@@ -1,4 +1,4 @@
-{ "spider":"./jar/fm.jar", "wallpaper":"http://饭太硬.top/深色壁纸/api.php", 
+{ "spider":"./jar/fm.20231030-0802.jar", "wallpaper":"http://饭太硬.top/深色壁纸/api.php", 
  "sites":[{
       "key": "豆豆",
       "name": "豆瓣┃主页",
@@ -24,7 +24,7 @@
     },
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
     {"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wogg.xyz/", "timeout":30},
-{"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
+{"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wobge.run.goorm.io$$$1", "timeout":30},
  {"key":"csp_wogg_cli","name":"玩偶jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
 {"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt", "timeout":30},
   {"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
@@ -56,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-    },
+    },{"key":"NanGua","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1"},
  {"key":"csp_SP33","name":"三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{"key":"csp_Sp360","name":"360影视┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true},"jar":"./jar/1022.jar"},
 
 {"key":"drpy_js_百忙无果","name":"弹幕 | 芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
