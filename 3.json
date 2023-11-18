@@ -1,4 +1,4 @@
-{ "spider":"./jar/fm.20231113-0911.jar", "wallpaper":"http://饭太硬.top/深色壁纸/api.php", 
+{ "spider":"./jar/20231117-2245.fm.jar", "wallpaper":"http://饭太硬.top/深色壁纸/api.php", 
  "sites":[{
       "key": "豆豆",
       "name": "豆瓣┃主页",
@@ -22,7 +22,9 @@
       "filterable": 1
     },
 {"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"9f36d2b640ae431d8a0ea21c3363e814", "timeout":30},
-  {"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},{"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wogg.xyz/$$$1", "timeout":30},{"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
+  {"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},{"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$https://wogg.xyz/$$$1", "timeout":30},
+   
+  {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
 {
             "key": "drpy_js_310直播",
             "name": "体育 | 310直播[js]",
@@ -105,6 +107,16 @@
       "ext": "http://alist.xn--z7x900a.love:63/88看球.js","jar": ""
     },{"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
   {"key":"NanGua","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
+  {
+    "key": "Bdys_spider",
+    "name": "哔滴┃直连",
+    "api": "csp_Bdys01",
+    "type": 3,
+    "filterable": 1,
+    "quickSearch": 1,
+    "searchable": 1,
+    "ext": "https://www.bdys03.com/$$$null$$$1"
+},
   {"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
   {
             "key": "drpy_js_百忙无果",
