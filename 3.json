@@ -100,7 +100,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/juzhi/tv/-/raw/main/js/py_ysdq.py","jar": "https://jihulab.com/juzhi/tv/-/raw/main/jar/fm.20231104-1015.jar"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py","jar": "https://jihulab.com/juzhi/tv/-/raw/main/jar/fm.20231104-1015.jar"
     },
    {
       "key": "csp_Bttoo",
