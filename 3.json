@@ -21,7 +21,11 @@
       "token": "http://127.0.0.1:9978/file/TV/token.json",
       "filter": "https://jihulab.com/juzhi/tv/-/raw/main/ali/wogg.json",
       "danmu" : true
-    }},
+    }},{"key":"玩偶表哥弹幕","name":"玩偶表哥ok","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok1201.png", "ext": {
+      "token": "http://127.0.0.1:9978/file/TV/token.json",
+      "cookie": "http://127.0.0.1:9978/file/TV/quark.json",
+      "danmu" : true
+    }, "timeout":30},
     {"key":"快手直播","name":"快手ok","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok1201.png","style":{"type":"rect","ratio":1.433}},
     {"key":"Up云搜","name":"Up云搜┃搜索ok","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok1201.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
     {"key":"云盘4K","name":"云盘4K┃搜索ok","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok1201.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
@@ -128,7 +132,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://haozhansou.com/","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-    },{"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
+    },{"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},{"key":"Bdys_spider","name":"哔滴","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1"},
   {"key":"NanGua","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
   
   {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},{
