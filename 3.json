@@ -16,19 +16,19 @@
 //{"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f71ef1b96f6c442c93d63d634231e213", "timeout":30},
  {"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wogg.xyz/$$$1", "timeout":30},{"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wobge.run.goorm.io$$$1", "timeout":30},{"key": "短剧","name": "短剧","type": 3,"api": "csp_Duanju","searchable": 0,"changeable": 1},
   {"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
-   {"key":"荐片弹幕版","name":"荐片┃弹幕ok","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/ok1213.png"},
-   {"key":"玩偶弹幕版","name":"玩偶哥哥ok","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"jar": "./jar/ok1213.png", "ext": {
+   {"key":"荐片弹幕版","name":"荐片┃弹幕ok","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png"},
+   {"key":"玩偶弹幕版","name":"玩偶哥哥ok","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png", "ext": {
       "token": "http://127.0.0.1:9978/file/TV/token.json",
       "filter": "./json/wogg.json",
       "danmu" : true
-    }},{"key":"玩偶表哥弹幕","name":"玩偶表哥ok","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1,"jar": "./jar/ok1213.png", "ext": {
+    }},{"key":"玩偶表哥弹幕","name":"玩偶表哥ok","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png", "ext": {
       "token": "http://127.0.0.1:9978/file/TV/token.json",
       "cookie": "http://127.0.0.1:9978/file/TV/quark.json",
       "danmu" : true
     }, "timeout":30},
-    {"key":"快手直播","name":"快手ok","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"jar":"./jar/ok1213.png","style":{"type":"rect","ratio":1.433}},
-    {"key":"Up云搜","name":"Up云搜┃搜索ok","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/ok1213.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
-    {"key":"云盘4K","name":"云盘4K┃搜索ok","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/ok1213.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
+    {"key":"快手直播","name":"快手ok","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png","style":{"type":"rect","ratio":1.433}},
+    {"key":"Up云搜","name":"Up云搜┃搜索ok","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
+    {"key":"云盘4K","name":"云盘4K┃搜索ok","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
   {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
  {
       "key": "88js",
@@ -179,8 +179,8 @@
 {"key":"drpy_js_电影港","name":"电影港[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_kuba","name":"酷吧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_xb6v","name":"新版6v[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"配置中心","name":"配置中心ok","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./jar/ok1213.png",style":{"type":"rect","ratio":1}},
-    {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./jar/ok1213.png","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
+{"key":"配置中心","name":"配置中心ok","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png",style":{"type":"rect","ratio":1}},
+    {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/juzhisan/okjar/main/ok.png","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
  "parses":[ {"name":"聚合1","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"},{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},  
      {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
  {"name":"饭饭","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
