@@ -47,6 +47,7 @@
     {"key":"快手直播","name":"快手ok","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"jar":"./jar/ok.png","style":{"type":"rect","ratio":1.433}},
     {"key":"Up云搜","name":"Up云搜┃搜索ok","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/ok.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
     {"key":"云盘4K","name":"云盘4K┃搜索ok","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"jar":"./jar/ok.png","ext":{"token":"http://127.0.0.1:9978/file/TV/ali_token.txt", "danmu": true}},
+    {"key":"新6V","name":"新6Vok","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"jar":"./jar/ok.png","timeout":30},
   {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
  {
       "key": "88js",
@@ -105,6 +106,12 @@
       "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json"
     },
   {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ppxzy.net/$$$null$$$1", "timeout":30},
+  {"key": "天天","name": "天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},{"key":"Libvio","name":"LIBVIO","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.libvio.fun$$$null"},
+{"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.91panta.cn/$$$null$$$1"},
+{"key":"DaPanSo","name":"大盘搜","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://dapanso.com$$$null"},
+{"key":"Qianfan","name":"千帆","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://pan.qianfan.app$$$null$$$QianFanID="},
+{"key":"YunSo","name":"小云","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key":"YunPanOne","name":"云盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json"},
  {"key":"Gitcafe", "name": "纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"http://127.0.0.1:9978/file/TV/token.json" },
  {"key":"小紙條", "name": "小紙條", "type": 3, "api": "csp_XiaoZhiTiao", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"http://127.0.0.1:9978/file/TV/token.json" , "timeout":30},{"key":"csp_Hdhive","name":"Hdhive","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json" , "timeout":30},
 {"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json"},
