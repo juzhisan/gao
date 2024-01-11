@@ -86,7 +86,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py_cctv.py","jar": ""
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/juzhisan/gao/master/py_cctv.py","jar": ""
     },{
       "key": "九六",
       "name": "🎀九六┃直连",
