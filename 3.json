@@ -42,7 +42,7 @@
       "token": "http://127.0.0.1:9978/file/TV/token.json",
       "filter": "./json/wogg.json",
       "danmu" : true
-    }},{"key":"玩偶表哥弹幕","name":"玩偶表哥ok","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1,"jar": "./jar/ok.png", "ext": {
+    }},{"key":"运输车弹幕版","name":"运输车ok","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0, "ext": {  "token": "http://127.0.0.1:9978/file/TV/token.json","cookie": "http://127.0.0.1:9978/file/TV/quark.txt","site": "https://www.weixine.net", "danmu" : true}, "timeout":30,"jar": "./jar/ok.png"},{"key":"玩偶表哥弹幕","name":"玩偶表哥ok","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1,"jar": "./jar/ok.png", "ext": {
       "token": "http://127.0.0.1:9978/file/TV/token.json",
       "cookie": "http://127.0.0.1:9978/file/TV/quark.json",
       "danmu" : true
