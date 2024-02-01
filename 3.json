@@ -80,6 +80,7 @@
 {"key":"Sean","name":"肖恩","type":3,"api":"csp_Sean","ext":"http://127.0.0.1:9978/file/TV/token.json"},
 {"key":"csp_Hdhive","name":"影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$socks5://192.168.1.9:4592","timeout":30},
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.json", "cookie": "http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"./jar/ok.png", "timeout":30},
+ {"key":"py_cntv","name":"央视","type":3,"api":"https://api-lmteam.koyeb.app/files/py/py_cntv.py","searchable":0,"quickSearch":0,"filterable":1},
 {
       "key": "九六",
       "name": "🎀九六┃直连",
@@ -313,6 +314,44 @@
 {"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"},
 {"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/thundershare.txt"},
 {"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/quarkshare.txt"},
+ {
+      "key": "997",
+      "name": "影视|997",
+      "type": 3,
+      "api": "csp_Web608",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://www.6080yy4.com","jar":"./freed/YSZYZ.jar"
+    },
+    {
+      "key": "hh",
+      "name": "影视|胡胡",
+      "type": 3,
+      "api": "csp_WebHH",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,"jar":"./freed/YSZYZ.jar"
+    },{
+      "key": "nangua",
+      "name": "APP|南瓜",
+      "type": 3,
+      "api": "csp_AppYSDQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "公众号:影视资源站","jar":"./freed/YSZYZ.jar"
+    },
+    {
+      "key": "aikun",
+      "name": "影视|皮皮",
+      "type": 3,
+      "api": "csp_WebAiKun",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://aikun.tv","jar":"./freed/YSZYZ.jar"
+    },
 {"key":"配置中心","name":"配置中心ok","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./jar/ok.png",style":{"type":"rect","ratio":1}},
     {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./jar/ok.png","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
  "parses":[ {"name":"聚合1","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"},{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},  
