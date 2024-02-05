@@ -322,7 +322,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://www.6080yy4.com","jar":"./freed/YSZYZ.jar"
+      "ext": "https://www.6080yy4.com","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
     {
       "key": "hh",
@@ -331,7 +331,7 @@
       "api": "csp_WebHH",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,"jar":"./freed/YSZYZ.jar"
+      "filterable": 0,"jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },{
       "key": "nangua",
       "name": "APP|南瓜",
@@ -340,7 +340,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "公众号:影视资源站","jar":"./freed/YSZYZ.jar"
+      "ext": "公众号:影视资源站","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
     {
       "key": "aikun",
@@ -350,7 +350,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://aikun.tv","jar":"./freed/YSZYZ.jar"
+      "ext": "http://aikun.tv","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
 {"key":"配置中心","name":"配置中心ok","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./jar/ok.png",style":{"type":"rect","ratio":1}},
     {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./jar/ok.png","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
