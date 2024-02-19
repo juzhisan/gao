@@ -37,7 +37,7 @@
   {"key": "短剧","name": "短剧","type": 3,"api": "csp_Duanju","searchable": 0,"changeable": 1},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "./jar/XYQ.jar"},
-   {"key":"荐片弹幕版","name":"荐片┃弹幕ok","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./ok.png"},
+   {"key":"荐片弹幕版","name":"荐片┃弹幕ok","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/okpng.txt"},
    {
       "key": "玩偶弹幕版",
       "name": "👽玩偶┃4K弹幕",
@@ -51,7 +51,7 @@
         "wogg": true,
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "阿里合集",
@@ -68,7 +68,7 @@
       "style": {
         "type": "list"
       },
-      "timeout": 30,"jar":"./ok.png"
+      "timeout": 30,"jar":"./jar/okpng.txt"
     },
     {
       "key": "运输车弹幕版",
@@ -84,7 +84,7 @@
         "site": "https://www.weixine.net",
         "danmu": true
       },
-      "timeout": 25,"jar":"./ok.png"
+      "timeout": 25,"jar":"./jar/okpng.txt"
     },{
       "key": "土豆网盘弹幕",
       "name": "🥔土豆网盘┃4K弹幕",
@@ -99,7 +99,7 @@
         "site": "https://ali.lvdoui.top",
         "danmu": true
       },
-      "timeout": 25,"jar":"./ok.png"
+      "timeout": 25,"jar":"./jar/okpng.txt"
     },
     {
       "key": "我哥哥弹幕",
@@ -115,7 +115,7 @@
         "site": "http://www.ttkx.live",
         "danmu": true
       },
-      "timeout": 25,"jar":"./ok.png"
+      "timeout": 25,"jar":"./jar/okpng.txt"
     },
     {
       "key": "玩偶表哥弹幕",
@@ -130,7 +130,7 @@
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },{
       "key": "csp_QuPanSou",
       "name": "🤓趣盘搜┃搜索",
@@ -143,7 +143,7 @@
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "csp_Qkpanso",
@@ -157,7 +157,7 @@
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "csp_AiPanSou",
@@ -171,7 +171,7 @@
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "纸条",
@@ -185,7 +185,7 @@
         "token": "file://TV/ali_token.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "盘Se",
@@ -199,7 +199,7 @@
         "token": "file://TV/ali_token.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "找資源",
@@ -213,7 +213,7 @@
         "token": "file://TV/ali_token.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "七夜",
@@ -227,7 +227,7 @@
         "token": "file://TV/ali_token.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "盘搜",
@@ -241,7 +241,7 @@
         "token": "file://TV/ali_token.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "易搜",
@@ -256,7 +256,7 @@
         "danmu": true,
         "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "Up云搜",
@@ -270,7 +270,7 @@
         "token": "file://TV/ali_token.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "云盘4K",
@@ -284,7 +284,7 @@
         "token": "file://TV/ali_token.txt",
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "南瓜弹幕版",
@@ -297,7 +297,7 @@
       "ext": {
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "天天弹幕版",
@@ -310,7 +310,7 @@
       "ext": {
         "danmu": true
       },
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
       "key": "厂长弹幕版",
@@ -323,7 +323,7 @@
       "ext": {
         "danmu": true
       },
-      "timeout": 25,"jar":"./ok.png"
+      "timeout": 25,"jar":"./jar/okpng.txt"
     },
     {
       "key": "新6V",
@@ -332,9 +332,9 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "changeable": 0,
-      "timeout": 10,"jar":"./ok.png"
+      "timeout": 10,"jar":"./jar/okpng.txt"
     },
-    {"key":"快手直播","name":"快手ok","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"jar":"./ok.png","style":{"type":"rect","ratio":1.433}},
+    {"key":"快手直播","name":"快手ok","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"jar":"./jar/okpng.txt","style":{"type":"rect","ratio":1.433}},
     
   {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
  {"key":"88js","name":"88看球┃体育","type":3,"api":"./lib/drpy.min.js","ext":"./js/88看球.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
@@ -615,8 +615,8 @@
       "filterable": 0,
       "ext": "http://aikun.tv","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
-{"key":"配置中心","name":"配置中心ok","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./ok.png",style":{"type":"rect","ratio":1}},
-    {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./ok.png","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
+{"key":"配置中心","name":"配置中心ok","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./jar/okpng.txt",style":{"type":"rect","ratio":1}},
+    {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./jar/okpng.txt","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
  "parses":[ {"name":"聚合1","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"},{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},  
      {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
  {"name":"饭饭","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
