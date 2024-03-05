@@ -331,19 +331,6 @@
       "timeout": 10,"jar":"./jar/okpng.txt"
     },
     {
-      "key": "天天弹幕版",
-      "name": "⛅️天天|弹幕",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
       "key": "厂长弹幕版",
       "name": "🌸厂长|弹幕",
       "type": 3,
@@ -449,7 +436,14 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,"jar": "./jar/fan.txt"
-		},
+		},{
+      "key": "追剧",
+      "name": "💥追剧┃App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar": "./jar/fan.txt"
+    },
   {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/","jar": "./jar/fan.txt"},
   {
       "key": "毛驴",
