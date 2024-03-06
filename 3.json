@@ -32,334 +32,22 @@
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "./jar/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
  //{ "key": "csp_woggcli","name": "✨玩偶┃T4T4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f71ef1b96f6c442c93d63d634231e213","searchable": 1,"quickSearch": 1,"filterable": 1 },
 //{"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f71ef1b96f6c442c93d63d634231e213", "timeout":30},
-{"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wogg.xyz/|104.16.245.50$$$1$$$./json/wogg.json", "timeout":30},
- {"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wobge.run.goorm.io$$$1", "timeout":30},
   {"key": "短剧","name": "短剧","type": 3,"api": "csp_Duanju","searchable": 0,"changeable": 1},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "./jar/XYQ.jar"},
-   {"key":"荐片弹幕版","name":"荐片┃弹幕ok","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"jar":"./jar/okpng.txt"},
-   {
-      "key": "玩偶弹幕版",
-      "name": "👽玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "wogg": true,
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "阿里合集",
-      "name": "🦋阿里|合集",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "share": "file://TV/阿里集合.json"
-      },
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "运输车弹幕版",
-      "name": "🚗运输车┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://www.weixine.net",
-        "danmu": true
-      },
-      "timeout": 25,"jar":"./jar/okpng.txt"
-    },
-    {"key": "我的阿里",
-      "name": "🐱我的|阿里",
-      "type": 3,
-      "api": "csp_MyAli",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "团长弹幕版",
-      "name": "🗽团长┃4K弹幕",
-      "type": 3,
-      "api": "csp_Tzfile",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 25,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "土豆网盘弹幕",
-      "name": "🥔土豆┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://aliz.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "我哥哥弹幕",
-      "name": "🍡我哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "http://www.ttkx.live",
-        "danmu": true
-      },
-      "timeout": 25,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "玩偶表哥弹幕",
-      "name": "🥏玩偶表哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },{
-      "key": "csp_QuPanSou",
-      "name": "🤓趣盘搜┃搜索",
-      "type": 3,
-      "api": "csp_QuPanSou",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "csp_Qkpanso",
-      "name": "🐚夸克盘搜┃搜索",
-      "type": 3,
-      "api": "csp_Qkpanso",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "csp_AiPanSou",
-      "name": "🥰爱盘搜┃搜索",
-      "type": 3,
-      "api": "csp_AiPanSou",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "纸条",
-      "name": "🗞纸条┃搜索",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "盘Se",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "找資源",
-      "name": "🐺找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "七夜",
-      "name": "😾七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "盘搜",
-      "name": "🦊盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "易搜",
-      "name": "😹易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true,
-        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "Up云搜",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_Upys",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "云盘4K",
-      "name": "🤖云盘4K┃搜索",
-      "type": 3,
-      "api": "csp_Yunpan4k",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "南瓜弹幕版",
-      "name": "🎃南瓜|弹幕",
-      "type": 3,
-      "api": "csp_Nangua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "厂长弹幕版",
-      "name": "🌸厂长|弹幕",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 25,"jar":"./jar/okpng.txt"
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 10,"jar":"./jar/okpng.txt"
-    },
-    {"key":"快手直播","name":"快手ok","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"jar":"./jar/okpng.txt","style":{"type":"rect","ratio":1.433}},
-    
   {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
  {"key":"88js","name":"88看球┃体育","type":3,"api":"./lib/drpy.min.js","ext":"./js/88看球.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"drpy_js_310直播","name":"310直播┃体育","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/310直播.js"},
 {"key":"drpy_js_抓饭体育","name":"抓饭┃体育","type":3,"api":"./lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/抓饭体育.js"},
 {"key":"csp_xp_qiumi","name":"Jrs球迷┃体育","type": 3,"api": "csp_XPath","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0,"ext": "./json/dj看球.json"},
-{"key":"csp_XPath_企鹅体育","name":"企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/企鹅直播.json"},
+{"key":"csp_XPath_企鹅体育","name":"企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/企鹅直播.json"},{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key":"Moli","name":"HDmoli","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./json/moli.json"},
+{"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.wogg.xyz/$$$1$$$./json/wogg.json", "timeout":30},
+{"key":"影视车","name":"影视车","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.weixine.link/$$$1$$$./json/wogg.json", "timeout":30},
+{"key":"csp_Wobg","name":"表哥","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json", "timeout":30},
+{"key":"csp_Wobg土豆网盘弹幕","name":"土豆","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ali.lvdoui.top$$$1$$$./json/wogg.json", "timeout":30},
+{"key":"Yscapp","name":"影視車","type":3,"api":"csp_Yscapp","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "playerType":1, "ext":"1"},
+{"key":"美剧迷","name":"美剧迷","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.meijumi.xyz/$$$null$$$1"},{"key":"盘友圈","name":"盘友圈","type":3,"api":"csp_Panyq","timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json"},
   {"key":"Ppxzy","name":"皮皮虾","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ppxzy.net/$$$null$$$1", "timeout":30},
   {"key":"88Pan","name":"88网盘","type":3,"api":"csp_EightEight","timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://662688.xyz"},
 {"key":"PikaSo","name":"皮卡搜","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.pikaso.top/$$$null"},
@@ -666,7 +354,16 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://aikun.tv","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
-    },
+    },{
+        "key": "AList",
+        "name": "网盘|雅雅",
+        "type": 3,
+        "api": "csp_AListBox",
+        "searchable": 1,
+        "changeable": 0,
+        "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
+        "style": {"type": "list"},"jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+    }, 
 {"key":"配置中心","name":"配置中心ok","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./jar/okpng.txt",style":{"type":"rect","ratio":1}},
     {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"./jar/okpng.txt","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
  "parses":[ {"name":"聚合1","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"},{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},  
