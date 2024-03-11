@@ -159,24 +159,47 @@
       "changeable": 1,
       "ext": "https://www.zxzja.com/","jar": "./jar/fan.txt"
     },
-    {
-            "key": "宇宙",
-            "name": "宇宙4K自营",
-            "type": 3,
-            "api": "csp_LvDou",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "playerType": 1,
-            "jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/ld.txt",
-            "ext": {
-                "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-                "mackey": "toudongxidegou88|qunimagebishabi9",
-                "danmu": true
-            }
-        },
-    {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},{"key":"Bdys_spider","name":"哔滴","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1"},{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},{"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},{"key": "天天","name": "天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
+   {
+      "key": "白嫖",
+      "name": "🌅┃白嫖┃影视",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+    },{
+      "key": "哔嘀",
+      "name": "️️💦┃哔嘀┃影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "1","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+    },{
+      "key": "csp_Nkdy",
+      "name": "🏔┃耐看┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Nkdy",
+      "searchable": 0,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+    },{
+      "key": "csp_Freeok",
+      "name": "️️👌┃FreeOK┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_Freeok","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+    },{
+      "key": "虎虎",
+      "name": "🐯┃虎虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://我不是.肥猫.live/json/虎虎.json","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+    },
+    {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
+    {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
+    {"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
+    {"key": "天天","name": "天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
 {"key":"NanGua","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1"},
   {"key":"4KHDR","name":"4KHDR","type":3,"api":"csp_FourKHDR","ext":"http://127.0.0.1:9978/file/TV/token.json$$$http://127.0.0.1:9978/file/TV/4khdr.txt","quickSearch":1,"changeable":1,"timeout":60},{"key":"AliShare","name":"影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt$$$db$$$1"},{"key":"csp_WoGG","name":"哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.wogg.xyz/$$$1$$$./json/wogg.json", "timeout":30},
 {"key":"影视车","name":"影视车","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.weixine.link/$$$1$$$./json/wogg.json", "timeout":30},
