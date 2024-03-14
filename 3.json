@@ -130,6 +130,16 @@
       "changeable": 1,"jar": "./jar/fan.txt"
     },
     {
+      "key": "白嫖",
+      "name": "👻白飘┃无广",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar": "./jar/fan.txt"
+    },
+    {
       "key": "Xinsj",
       "name": "👓视觉┃直连",
       "type": 3,
@@ -182,7 +192,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
-      "searchable": 0,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+      "searchable": 1,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
     },{
       "key": "csp_Freeok",
       "name": "️️👌┃FreeOK┃影视",
