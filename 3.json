@@ -183,7 +183,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy",
-      "searchable": 1,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+      "searchable": 1,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240315.jar"
     },{
       "key": "csp_Freeok",
       "name": "️️👌┃FreeOK┃影视",
@@ -196,6 +196,12 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.live/json/虎虎.json","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240309.jar"
+    },{
+      "key": "攻阁",
+      "name": "🏮┃攻阁┃影视",
+      "type": 3,
+      "api": "csp_Lggys",
+      "playerType": 2,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240315.jar"
     },
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
     {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
