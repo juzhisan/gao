@@ -403,8 +403,8 @@
         "api": "csp_AListBox",
         "searchable": 1,
         "changeable": 0,
-        "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
-        "style": {"type": "list"},"jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
+        "ext": "https://agit.ai/juzhisan/TVB/raw/branch/main/json/xiaoya.json",
+        "style": {"type": "list"},"jar":"https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/YSZYZ.jar"
     }, 
     {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
  "parses":[ {"name":"聚合1","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"},{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},  
