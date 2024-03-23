@@ -403,7 +403,7 @@
         "api": "csp_AListBox",
         "searchable": 1,
         "changeable": 0,
-        "ext": "https://agit.ai/juzhisan/TVB/raw/branch/main/json/xiaoya.json",
+        "ext": "https://agit.ai/juzhisan/TVB/raw/branch/main/json/xiaoya.json#公众号:影视资源站",
         "style": {"type": "list"},"jar":"https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/YSZYZ.jar"
     }, 
     {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
