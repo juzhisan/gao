@@ -83,6 +83,7 @@
       "quickSearch": 1,
       "changeable": 1,"jar": "./jar/fan.txt"
     },
+    {"key":"苹果","name":"🍎小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/fan.txt"},
       {
 			"key": "csp_77",
 			"name": "🥣七七┃APP",
