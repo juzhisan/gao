@@ -130,7 +130,17 @@
       "quickSearch": 1,
       "changeable": 1,"jar": "./jar/fan.txt"
     },
-   
+   {
+      "key": "白嫖",
+      "name": "👻白飘┃无广",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com/","jar": "./jar/fan.txt"
+    },
     {
       "key": "Xinsj",
       "name": "👓视觉┃直连",
@@ -162,14 +172,6 @@
       "ext": "https://www.zxzja.com/","jar": "./jar/fan.txt"
     },
    {
-      "key": "白嫖",
-      "name": "🌅┃白嫖┃影视",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240318.jar"
-    },{
       "key": "哔嘀",
       "name": "️️💦┃哔嘀┃影视",
       "type": 3,
