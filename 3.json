@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.baipiaoys.com/","jar": "./jar/fan.txt"
+      "ext": "https://www.baipiaoys.com:9092/","jar": "./jar/fan.txt"
     },
     {
       "key": "Xinsj",
