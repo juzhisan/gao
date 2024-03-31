@@ -29,6 +29,7 @@
         ]
       }
     },
+    {"key":"AList","name":"网盘|雅雅","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://d.kstore.space/download/6474/tvbox/json/p.json#公众号:影视资源站","style":{"type":"list"},"jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"},
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "./jar/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
  //{ "key": "csp_woggcli","name": "✨玩偶┃T4T4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f71ef1b96f6c442c93d63d634231e213","searchable": 1,"quickSearch": 1,"filterable": 1 },
 //{"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f71ef1b96f6c442c93d63d634231e213", "timeout":30},
@@ -402,7 +403,7 @@
       "filterable": 0,
       "ext": "http://aikun.tv","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
-    {"key":"AList","name":"网盘|雅雅","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://agit.ai/juzhisan/TVB/raw/branch/main/json/xiaoya.json#公众号:影视资源站","style":{"type":"list"},"jar":"https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/YSZYZ.jar"},
+    
     {"key":"应用商店","name":"应用商店ok","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
  "parses":[ {"name":"聚合1","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"},{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},  
      {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
