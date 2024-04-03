@@ -617,7 +617,7 @@
     },{
       "name": "oklive",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/my-program/zhiboyuan/-/raw/main/zhiboyuan.txt",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/li.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
