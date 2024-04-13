@@ -119,7 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy03.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
+      "ext": "https://www.czzy77.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },{
       "key": "原创",
       "name": "☀原创┃无广",
@@ -191,25 +191,12 @@
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
-    {
-      "key": "csp_Freeok",
-      "name": "️️👌┃FreeOK┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_Freeok","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"
-    },{
+   {
       "key": "虎虎",
       "name": "🐯┃虎虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.live/json/虎虎.json","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"
-    },
-    {
-      "key": "攻阁",
-      "name": "🏮┃攻阁┃影视",
-      "type": 3,
-      "api": "csp_Lggys",
-      "playerType": 2,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"
     },
     { "key": "外剧影视", "name": "🙋┃外剧┃影视", "type": 3, "playerType": "1", "api": "csp_KmeiJu","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"},
     {
