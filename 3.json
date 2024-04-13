@@ -196,20 +196,32 @@
       "name": "️️👌┃FreeOK┃影视",
       "type": 3,
       "playerType": "1",
-      "api": "csp_Freeok","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240318.jar"
+      "api": "csp_Freeok","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"
     },{
       "key": "虎虎",
       "name": "🐯┃虎虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http://我不是.肥猫.live/json/虎虎.json","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240318.jar"
-    },{
+      "ext": "http://我不是.肥猫.live/json/虎虎.json","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"
+    },
+    {
       "key": "攻阁",
       "name": "🏮┃攻阁┃影视",
       "type": 3,
       "api": "csp_Lggys",
-      "playerType": 2,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240318.jar"
-    },{ "key": "外剧影视", "name": "🙋┃外剧┃影视", "type": 3, "playerType": "1", "api": "csp_KmeiJu","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240327.jar"},
+      "playerType": 2,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"
+    },
+    { "key": "外剧影视", "name": "🙋┃外剧┃影视", "type": 3, "playerType": "1", "api": "csp_KmeiJu","jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"},
+    {
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "https://agit.ai/juzhisan/TVB/raw/branch/main/JAR/PandaQ240408.jar"
+    },
     {
       "key": "AList",
       "name": "💻超清4K",
