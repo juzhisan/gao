@@ -6,7 +6,7 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,"jar": "./jar/fan.txt"
+      "filterable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
     {"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
@@ -30,7 +30,7 @@
       }
     },
     {"key":"AList","name":"网盘|雅雅","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://d.kstore.space/download/6474/tvbox/json/p.json#公众号:影视资源站","style":{"type":"list"},"jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"},
-    {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "./jar/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
+    {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
  //{ "key": "csp_woggcli","name": "✨玩偶┃T4T4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f71ef1b96f6c442c93d63d634231e213","searchable": 1,"quickSearch": 1,"filterable": 1 },
 //{"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f71ef1b96f6c442c93d63d634231e213", "timeout":30},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
@@ -44,7 +44,7 @@
 
 {"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.91panta.cn/$$$null$$$1"},
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.json", "cookie": "http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"", "timeout":30},
- {"key":"py_cntv","name":"央视","type":3,"api":"https://api-lmteam.koyeb.app/files/py/py_cntv.py","searchable":0,"quickSearch":0,"filterable":1},
+ {"key":"py_cntv","name":"央视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/py_cctv23.py","searchable":0,"quickSearch":0,"filterable":1},
     {
       "key": "Auete",
       "name": "🏝奥特┃直连",
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.pro/","jar": "./jar/fan.txt"
+      "ext": "https://auete.pro/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     }, 
    {
       "key": "csp_Bttoo",
@@ -62,9 +62,9 @@
       "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,"jar": "./jar/fan.txt"
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
-    {"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/fan.txt"},
+    {"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"},
    {
       "key": "Lib",
       "name": "🌟利播┃直连",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pw/","jar": "./jar/fan.txt"
+      "ext": "https://www.libvio.pw/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
      {
       "key": "酷看",
@@ -82,9 +82,9 @@
       "api": "csp_Kkys",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,"jar": "./jar/fan.txt"
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
-    {"key":"苹果","name":"🍎小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/fan.txt"},
+    {"key":"苹果","name":"🍎小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"},
       {
 			"key": "csp_77",
 			"name": "🥣七七┃APP",
@@ -92,14 +92,14 @@
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,"jar": "./jar/fan.txt"
+			"changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
 		},{
       "key": "追剧",
       "name": "💥追剧┃App",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
-      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar": "./jar/fan.txt"
+      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
   {
       "key": "毛驴",
@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.maolvys.com/","jar": "./jar/fan.txt"
+      "ext": "https://www.maolvys.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {
       "key": "Czsapp",
@@ -120,7 +120,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/","jar": "./jar/fan.txt"
+      "ext": "https://www.czzy03.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },{
       "key": "原创",
       "name": "☀原创┃无广",
@@ -129,7 +129,7 @@
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,"jar": "./jar/fan.txt"
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
    {
       "key": "白嫖",
@@ -140,7 +140,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.baipiaoys.com:9092/","jar": "./jar/fan.txt"
+      "ext": "https://www.baipiaoys.com:9092/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {
       "key": "Xinsj",
@@ -151,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.80yy3.com/","jar": "./jar/fan.txt"
+      "ext": "https://www.80yy3.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },{
       "key": "新6V",
       "name": "🧲新6V┃磁力",
@@ -160,7 +160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://www.xb6v.com/","jar": "./jar/fan.txt"
+      "ext": "http://www.xb6v.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },{
       "key": "zxzj",
       "name": "🍊在线┃外剧",
@@ -170,7 +170,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzja.com/","jar": "./jar/fan.txt"
+      "ext": "https://www.zxzja.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
+    },
+    {
+      "key": "萌米",
+      "name": "👀萌米┃App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {
       "key": "csp_Freeok",
@@ -211,113 +231,6 @@
           }
         ]
       }
-    },
-  
-    {
-      "key": "视觉",
-      "name": "👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "毛驴",
-      "name": "🍓毛驴┃直连",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "Lib",
-      "name": "🌟立播┃直连",
-      "type": 3,
-      "api": "csp_Libvio",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pw/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "Auete",
-      "name": "🏝奥特┃直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "原创",
-      "name": "☀原创┃无广",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "苹果",
-      "name": "🍎苹果┃无广",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "白嫖",
-      "name": "👻白飘┃无广",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.baipiaoys.com:9092/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "厂长",
-      "name": "📔厂长┃无广",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czys03.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
-    },
-    {
-      "key": "萌米",
-      "name": "👀萌米┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/fan/main/jar/spider.jar"
     },
     {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
