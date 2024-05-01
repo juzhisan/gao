@@ -271,22 +271,12 @@
         {"key":"csp_Bili高中","name":"🐞哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./biliext/高中课堂.json","jar": "./jar/XYQ.jar"},
         {"key":"JS哔哩直播","name":"哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./js/哔哩直播.js","jar": "./jar/XYQ.jar"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar"},
-        {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar"},
-        {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar"},
-        {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar"},
-      
-        {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar"},
         {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/4KHDR.json","jar": "./jar/XYQ.jar"},
-        {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港磁力.json","jar": "./jar/XYQ.jar"},
-        {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/BT天堂.json","jar": "./jar/XYQ.jar"},
-       
+        {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港磁力.json","jar": "./jar/XYQ.jar"},  
         {"key": "csp_XYQHiker_高清MP4","name":"🧲高清MP4(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/高清MP4.json","jar": "./jar/XYQ.jar"},
       
         {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json","jar": "./jar/XYQ.jar"},
-        {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/磁力熊.json","jar": "./jar/XYQ.jar"},
   {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
-{"key":"drpy_js_电影港","name":"电影港[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/dygang.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"drpy_js_kuba","name":"酷吧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":30},
  {
       "key": "997",
       "name": "影视|997",
@@ -297,7 +287,6 @@
       "filterable": 0,
       "ext": "https://www.6080yy4.com","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
-    
     {"key":"tvyb","name":"影视|云播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"},{"key":"jp","name":"APP|荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":0,"jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"},{"key":"996","name":"弹幕|白嫖","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"},{"key":"xifan","name":"动漫|稀饭","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"},
     {"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
  "parses":[ {"name":"聚合1","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"},{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},  
