@@ -104,14 +104,6 @@
       "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {"key":"苹果","name":"🍎小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"},
-     {
-      "key": "追剧",
-      "name": "💥追剧┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
-    },
   {
       "key": "毛驴",
       "name": "🍓毛驴┃直连",
@@ -144,7 +136,6 @@
       "changeable": 1,
       "ext": "https://www.czys.top/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
-   
     {
       "key": "Xinsj",
       "name": "👓视觉┃直连",
@@ -202,35 +193,10 @@
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.live/json/虎虎.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
-    { "key": "csp_Nkdy", "name": "🏔┃耐看┃影视", "type": 3, "playerType": "2", "api": "csp_Nkdy","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar" }, 
-    { "key": "csp_Czys", "name": "🍊┃橙汁┃影视", "type": 3, "playerType": "2", "api": "csp_Czys","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar" },
     { "key": "csp_Juqq", "name": "⭕┃剧圈┃影视", "type": 3, "playerType": "2", "api": "csp_Juqq","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar" },
-    {
-      "key": "AList",
-      "name": "💻超清4K",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "jar": "",
-      "ext": {
-        "drives": [
-          {
-            "name": "超清4K💻",
-            "search": true,
-            "searchable": true,
-            "server": "http://tptpwhc.tpddns.cn:1234"
-          }
-        ]
-      }
-    },
      {"key":"白嫖影视","name":"白嫖影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
     
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
-    {"key":"天天","name":"天天","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
-	{"key":"热播","name":"热播","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
 	{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
 	{"key":"子子影视","name":"子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/XYQHiker/子子影视.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
 	{"key":"畅梦影视","name":"畅梦影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/JS/畅梦影视.js"},
@@ -260,13 +226,6 @@
 {"key":"酷狗","name":"酷狗","type":3,"api":"csp_Kugou","searchable":1,"changeable":0},
    {"key": "csp_XYQBiu_石榴电影","name":"石榴电影","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/石榴电影.json","jar": "./jar/XYQ.jar"},{"key": "csp_XYQBiu_TVB云播","name": "TVB云播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQBiu/TVB云播.json","jar": "./jar/XYQ.jar"},{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},{"key": "csp_XYQHiker_疯狗影视","name":"🐶疯狗影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/疯狗影视.json","jar": "./jar/XYQ.jar"},
         {"key": "csp_XYQHiker_爱看影院","name":"爱看影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/爱看影院.json","jar": "./jar/XYQ.jar"},{"key": "csp_XYQHiker_秋霞电影","name":"秋霞电影(HM1)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/秋霞电影.json","jar": "./jar/XYQ.jar"},{"key": "csp_XYQHiker_七新影视","name":"七新影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/七新影视.json","jar": "./jar/XYQ.jar"},{"key": "csp_XYQHiker_98影院","name":"98影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/98影院.json","jar": "./jar/XYQ.jar"},{"key": "csp_XYQHiker_臭蛋蛋影视","name":"臭蛋蛋影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/臭蛋蛋影视.json","jar": "./jar/XYQ.jar"},
-        {"key":"csp_Bili","name":"🐞哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./biliext/Bili.json","jar": "./jar/XYQ.jar"},
-        {"key":"csp_Bili幼儿","name":"🐞哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./biliext/幼儿乐园.json","jar": "./jar/XYQ.jar"},
-        {"key":"csp_Bili少儿","name":"🐞哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./biliext/少儿教育.json","jar": "./jar/XYQ.jar"},
-        {"key":"csp_Bili小学","name":"🐞哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./biliext/小学课堂.json","jar": "./jar/XYQ.jar"},
-        {"key":"csp_Bili初中","name":"🐞哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./biliext/初中课堂.json","jar": "./jar/XYQ.jar"},
-        {"key":"csp_Bili高中","name":"🐞哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./biliext/高中课堂.json","jar": "./jar/XYQ.jar"},
-        {"key":"JS哔哩直播","name":"哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./js/哔哩直播.js","jar": "./jar/XYQ.jar"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar"},
         {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/4KHDR.json","jar": "./jar/XYQ.jar"},
         {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港磁力.json","jar": "./jar/XYQ.jar"},  
