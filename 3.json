@@ -60,8 +60,7 @@
 {"key":"drpy_js_抓饭体育","name":"抓饭┃体育","type":3,"api":"./lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/抓饭体育.js"},
 {"key":"csp_xp_qiumi","name":"Jrs球迷┃体育","type": 3,"api": "csp_XPath","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0,"ext": "./json/dj看球.json"},
 {"key":"csp_XPath_企鹅体育","name":"企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./json/企鹅直播.json"},{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
-
-{"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://www.91panta.cn/$$$null$$$1"},
+{"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.91panta.cn/$$$null$$$1"},
 {"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.json", "cookie": "http://127.0.0.1:9978/file/TV/quark.txt", "danmu": true},"jar":"", "timeout":30},
  {"key":"py_cntv","name":"央视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/py_cctv23.py","searchable":0,"quickSearch":0,"filterable":1},
     {
@@ -203,7 +202,7 @@
 	{"key":"圣城影视","name":"圣城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/XBPQ/圣城影视.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/danmu.jar"},
 	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/danmu.jar"},{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/danmu.jar"},
-    {"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/PG/main/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
+    {"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/PG/main/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},{"key":"MeijuTT","name":"美剧天天","type":3,"api":"csp_MeijuTT","playerType":"1", "changeable":0,"timeout":60},
     {
 			"key": "Bdys_spider",
 			"name": "哔滴┃磁力",
@@ -218,6 +217,7 @@
 		{"key":"Gaoqing","name":"中国高清网|网盘","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/PG/main/lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
 		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/PG/main/lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"},
     {"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
+    {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
  {"key":"Bt0","name":"不太灵","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","timeout":60},
  {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"./json/jianpian.json$$$1", "timeout":60},
  {"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
