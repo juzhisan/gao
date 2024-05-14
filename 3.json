@@ -260,7 +260,7 @@
 {"key":"布谷tv","name":"布谷4K","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XBPQ.jar","ext":"./XBPQ/布谷4K.json"},
 {"key": "haokongbu","name": "好恐怖","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好恐怖.json","jar": "./jar/XBPQ.jar"},
 {"key": "rarbt","name": "rarbt","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext":"./XBPQ/rarbt.json" ,"jar":"./jar/XBPQ.jar"},
-  {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
+  { "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
  {
       "key": "997",
       "name": "影视|997",
