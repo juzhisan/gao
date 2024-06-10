@@ -54,7 +54,19 @@
  //{ "key": "csp_woggcli","name": "✨玩偶┃T4T4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f71ef1b96f6c442c93d63d634231e213","searchable": 1,"quickSearch": 1,"filterable": 1 },
 //{"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f71ef1b96f6c442c93d63d634231e213", "timeout":30},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"},
+  {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
  {"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"310js","name":"⚽310┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"企鹅体育xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
