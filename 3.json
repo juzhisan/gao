@@ -331,6 +331,21 @@
             "api": "csp_WexF4kvm",
             "searchable": 1,
             "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },{
+            "key": "地瓜影视",
+            "name": "地瓜影视",
+            "type": 3,
+            "api": "csp_Wexdiguatv",
+            "searchable": 1,
+            "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },
+        {
+            "key": "闪电影视",
+            "name": "闪电影视",
+            "type": 3,
+            "api": "csp_Wexshandian",
+            "searchable": 1,
+            "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
         },
    {
             "key": "韩小圈",
