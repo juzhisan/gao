@@ -331,21 +331,23 @@
             "api": "csp_WexF4kvm",
             "searchable": 1,
             "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
-        },{
-            "key": "地瓜影视",
-            "name": "地瓜影视",
-            "type": 3,
-            "api": "csp_Wexdiguatv",
-            "searchable": 1,
-            "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
         },
-        {
-            "key": "闪电影视",
-            "name": "闪电影视",
+    {
+            "key": "看看影视",
+            "name": "看看影视",
             "type": 3,
-            "api": "csp_Wexshandian",
+            "api": "csp_WebIV",
             "searchable": 1,
-            "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+            "quickSearch": 1,
+            "filterable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },{
+            "key": "追剧影视",
+            "name": "追剧影视",
+            "type": 3,
+            "api": "csp_AppZJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
         },
    {
             "key": "韩小圈",
@@ -455,8 +457,6 @@
 			"timeout":60,
 			"ext": "./lib/token.json$$$https://www.yjys01.com/$$$proxy$$$1"
 		},
-    {"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1},
-    {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
  {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"./json/jianpian.json$$$1", "timeout":60},
  {"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
 {"key": "Yinyuetai","name": "音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0},
