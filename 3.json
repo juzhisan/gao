@@ -130,16 +130,6 @@
       "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {"key":"苹果","name":"🍎小苹果┃复活","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"},
-  {
-      "key": "毛驴",
-      "name": "🍓毛驴┃直连",
-      "type": 3,
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
-    },
     {
       "key": "原创",
       "name": "☀原创┃无广",
@@ -214,16 +204,6 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {
-      "key": "糯米",
-      "name": "糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
-    },{
       "key": "文采",
       "name": "💮文采┃秒播",
       "type": 3,
@@ -304,13 +284,6 @@
       "quickSearch": 1,
       "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
-    {
-      "key": "csp_FengGo",
-      "name": "🐕┃疯狗┃影视",
-      "type": 3,
-      "api": "csp_FengGo",
-      "playerType": 2,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
-    },
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
     {"key":"明日影视","name":"明日影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
 	{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
@@ -334,6 +307,22 @@
             "api": "csp_WexF4kvm",
             "searchable": 1,
             "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },
+    {
+            "key": "农民影视",
+            "name": "农民影视",
+            "type": 3,
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },{
+            "key": "毛驴影视",
+            "name": "毛驴影视",
+            "type": 3,
+            "api": "csp_MaoLv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
         },
     {
             "key": "看看影视",
