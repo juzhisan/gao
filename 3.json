@@ -353,7 +353,29 @@
         },
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/danmu.jar"},
 	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/danmu.jar"},{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/danmu.jar"},
-    {
+   {
+            "key": "哔嘀弹幕",
+            "name": "弹幕｜哔嘀",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/danmu.jar"
+        },
+      {
+            "key": "疯狗影视",
+            "name": "疯狗影视",
+            "type": 3,
+            "api": "csp_FengGo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },
+     {
       "key": "云播",
       "name": "1080P┃云播",
       "type": 3,
