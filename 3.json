@@ -29,27 +29,12 @@
         ]
       }
     },
-   {
-      "key": "AList",
-      "name": "💻超清4K",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "jar": "",
-      "ext": {
-        "drives": [
-          {
-            "name": "超清4K💻",
-            "search": true,
-            "searchable": true,
-            "server": "http://tptpwhc.tpddns.cn:1234"
-          }
-        ]
-      }
-    },
+   {"key":"csp_AList","name":"🍉小雅｜云盘","type":3,"playerType":1,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,
+"ext":{"vodPic":"https://s2.loli.net/2023/04/24/Z9bMjB3TutzKDGY.png",
+"drives":[
+    {"name": "Ecve","server": "http://122.231.16.104:5678/"}
+
+]}},
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
  //{ "key": "csp_woggcli","name": "✨玩偶┃T4T4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f71ef1b96f6c442c93d63d634231e213","searchable": 1,"quickSearch": 1,"filterable": 1 },
 //{"key":"小纸条_cli","name":"小纸条jun","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"f71ef1b96f6c442c93d63d634231e213", "timeout":30},
