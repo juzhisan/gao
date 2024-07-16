@@ -72,6 +72,7 @@
       },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
  {"key":"py_cntv","name":"央视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/py_cctv23.py","searchable":0,"quickSearch":0,"filterable":1},
+ {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"},
     {
       "key": "Auete",
       "name": "🏝奥特┃直连",
