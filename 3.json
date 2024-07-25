@@ -198,8 +198,6 @@
       "ext": "http://我不是.肥猫.live/json/虎虎.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
     { "key": "csp_Juqq", "name": "⭕┃剧圈┃影视", "type": 3, "playerType": "2", "api": "csp_Juqq","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar" },
-    { "key": "达达龟", "name": "🐢┃达达龟┃影视", "type": 3, "api": "csp_Dadag", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"}, 
-    { "key": "可可", "name": " 😝┃可可┃影视", "type": 3, "playerType": "2", "api": "csp_Keke", "searchable": 1, "quickSearch": 1, "filterable": 1 ,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"},
     {
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
@@ -255,17 +253,43 @@
       "type": 3,
       "api": "csp_Ikan",
       "playerType": 2,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
-    },{
-      "key": "csp_FengGo",
-      "name": "🐕┃疯狗┃影视",
-      "type": 3,
-      "api": "csp_FengGo",
-      "playerType": 2,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
     {"key":"明日影视","name":"明日影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
-	{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
+	{"key":"素白白","name":"素白白","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},{
+            "key": "可可影视",
+            "name": "可可影视",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },{
+            "key": "疯狗影视",
+            "name": "疯狗影视",
+            "type": 3,
+            "api": "csp_FengGo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },{
+            "key": "达达龟",
+            "name": "达达龟",
+            "type": 3,
+            "api": "csp_Dadag",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },
 	{"key":"子子影视","name":"子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/XYQHiker/子子影视.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"},
+	{
+            "key": "兄弟影视",
+            "name": "兄弟影视",
+            "type": 3,
+            "api": "csp_Wexxiongdiys",
+            "searchable": 1,
+            "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
+        },{ "key": "Wexjiazitv", "name": "🌺甲子┃4K🌺", "type": 3, "api": "csp_Wexjiazitv", "searchable": 1, "changeable": 1, "playerType":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar" },
   {
             "key": "视频库",
             "name": "视频库",
@@ -734,6 +758,7 @@
                 "欧美综艺"
             ]
         },
+        { "key": "爱坤", "name": "🛝爱坤┃采集🛝", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod?", "searchable": 1, "changeable": 1, "categories": [ "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "古装片", "悬疑片", "犯罪片", "灾难片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "爽文短剧" ] },
     {"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1}} ],
   "parses":[
 			{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
