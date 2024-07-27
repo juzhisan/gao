@@ -289,7 +289,37 @@
             "api": "csp_Wexxiongdiys",
             "searchable": 1,
             "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/spider.jar"
-        },{ "key": "Wexjiazitv", "name": "🌺甲子┃4K🌺", "type": 3, "api": "csp_Wexjiazitv", "searchable": 1, "changeable": 1, "playerType":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt" },
+        },{ "key": "Wexjiazitv", "name": "🌺甲子┃4K🌺", "type": 3, "api": "csp_Wexjiazitv", "searchable": 1, "changeable": 1, "playerType":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt" },{
+      "key": "Wexdiguatv",
+      "name": "🌺追剧┃秒播🌺",
+      "type": 3,
+      "api": "csp_Wexdiguatv",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
+    {
+      "key": "Wexshandian",
+      "name": "🌺闪电┃秒播🌺",
+      "type": 3,
+      "api": "csp_Wexshandian",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },{
+      "key": "Wexyuyueys",
+      "name": "💥雨落┃影视💥",
+      "type": 3,
+      "api": "csp_Wexyuyueys",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
+    {
+      "key": "南瓜",
+      "name": "💥瓜瓜┃影视💥",
+      "type": 3,
+      "api": "csp_WexNgys",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
   {
             "key": "视频库",
             "name": "视频库",
