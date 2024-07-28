@@ -603,7 +603,6 @@
 {"key":"布谷tv","name":"布谷4K","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XBPQ.jar","ext":"./XBPQ/布谷4K.json"},
 {"key": "haokongbu","name": "好恐怖","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好恐怖.json","jar": "./jar/XBPQ.jar"},
 {"key": "rarbt","name": "rarbt","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext":"./XBPQ/rarbt.json" ,"jar":"./jar/XBPQ.jar"},
-  { "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/pg.jar"},
  {
       "key": "997",
       "name": "影视|997",
@@ -617,8 +616,6 @@
     {"key":"tvyb","name":"影视|云播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"}, 
     {"key":"t9-caiji","name":"影视-采集(t9)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
     {"key":"t9-xinshijue","name":"影视-新视觉(t9)","type":4,"api":"https://catbox.n13.club/t9/xinshijue.php"},
-  {"key":"AliShare","name":"影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/token.json$$$./json/alishare.txt$$$db$$$1","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/pg.jar"},
-		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://www.libvio.fun/$$$null","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/pg.jar"},
 	{
             "key": "量子资源",
             "name": "量子资源",
