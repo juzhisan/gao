@@ -156,17 +156,6 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
-    },{
       "key": "小点",
       "name": "💥小点┃多线",
       "type": 3,
@@ -268,14 +257,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,"jar": ""
-        },{
-            "key": "达达龟",
-            "name": "达达龟",
-            "type": 3,
-            "api": "csp_Dadag",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar": ""
         },
 	{"key":"子子影视","name":"子子影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/xiaosabox/main/XYQHiker/子子影视.json","jar": ""},
 	{
@@ -296,46 +277,7 @@
             "filterable": 0,
             "ext": "https://vidhub1.cc","jar": ""
         },
-    {
-            "key": "农民影视",
-            "name": "农民影视",
-            "type": 3,
-            "api": "csp_WexNmys",
-            "searchable": 1,
-            "changeable": 1,"jar": ""
-        },{
-            "key": "毛驴影视",
-            "name": "毛驴影视",
-            "type": 3,
-            "api": "csp_MaoLv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar": ""
-        },
-    {
-            "key": "看看影视",
-            "name": "看看影视",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,"jar": ""
-        },{
-            "key": "追剧影视",
-            "name": "追剧影视",
-            "type": 3,
-            "api": "csp_AppZJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar": ""
-        },{
-            "key": "愉悦影视",
-            "name": "愉悦影视",
-            "type": 3,
-            "api": "csp_Wexyuyueys",
-            "searchable": 1,
-            "changeable": 1,"jar": ""
-        },{
+   {
             "key": "剧圈影视",
             "name": "剧圈影视",
             "type": 3,
@@ -351,6 +293,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,"jar": ""
+        },{
+            "key": "机器人",
+            "name": "机器人｜影视",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://v.aikanbot.com"
         },
    {
             "key": "韩小圈",
@@ -360,10 +311,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
         },
-	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},
-	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},
+	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},
+	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},
    {
             "key": "哔嘀弹幕",
             "name": "弹幕｜哔嘀",
@@ -375,7 +326,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
         },
    {
       "key": "csp_Netfixtv",
@@ -659,19 +610,7 @@
 {"key":"布谷tv","name":"布谷4K","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XBPQ.jar","ext":"./XBPQ/布谷4K.json"},
 {"key": "haokongbu","name": "好恐怖","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好恐怖.json","jar": "./jar/XBPQ.jar"},
 {"key": "rarbt","name": "rarbt","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext":"./XBPQ/rarbt.json" ,"jar":"./jar/XBPQ.jar"},
- {
-      "key": "997",
-      "name": "影视|997",
-      "type": 3,
-      "api": "csp_Web608",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://www.6080yy4.com","jar":"https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
-    },
-    {"key":"tvyb","name":"影视|云播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"}, 
     {"key":"t9-caiji","name":"影视-采集(t9)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
-    {"key":"t9-xinshijue","name":"影视-新视觉(t9)","type":4,"api":"https://catbox.n13.club/t9/xinshijue.php"},
 	{
             "key": "量子资源",
             "name": "量子资源",
