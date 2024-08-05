@@ -317,16 +317,17 @@
 	{"key":"不太灵弹幕","name":"弹幕｜不太灵","type":3,"api":"csp_Bt0","searchable":1,"changeable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},{"key":"JOJO弹幕","name":"弹幕｜JOJO","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},
    {
             "key": "哔嘀弹幕",
-            "name": "弹幕｜哔嘀",
+            "name": "哔嘀｜弹幕",
             "type": 3,
             "api": "csp_Bdys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "site": "https://www.yjys01.com",
                 "danmu": true
             },
-            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
         },
    {
       "key": "csp_Netfixtv",
