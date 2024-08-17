@@ -321,14 +321,18 @@
             },
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
         },
-   {
-      "key": "csp_Netfixtv",
-      "name": "👀至臻┃自建4K",
+    {
+      "key": "csp_zhizhen",
+      "name": "🌹至臻┃4K4K",
       "type": 3,
       "api": "csp_Duopan",
-      "playerType": 2,
       "filterable": 1,
-      "ext": "http://mpanso.com/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+      "ext": {
+        "site_urls": [
+          "http://mihdr.top",
+          "http://mpanso.com"
+        ]
+      },"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
      {
       "key": "云播",
@@ -482,16 +486,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://122.228.85.203:1000/api.php/app/"
-    },{
-      "key": "酷影",
-      "name": "🥥酷影┃4K",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:3366/api.php/app/"
     },
     { "key": "SHILIU", "name": "🐯石榴┃影视", "type": 3, "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": { "主页url": "https://hei19.com", "分类": "电影&剧集&综艺&动漫", "分类值": "1&2&3&4", "分类url": "https://hei19.com/catalog?column={cateId}&sort=1&per_page=72&page={catePg}", "二次截取": "type=\"application/json\">&&", "数组": "props.pageProps.mediaData.data", "图片": "cover", "标题": "name", "副标题": "tag", "链接前缀": "https://hei19.com/detail/", "链接": "id", "搜索模式": "1", "搜索url": "https://hei19.com/search?type=1&keywords={wd}", "搜索二次截取": "type=\"application/json\">&&", "搜索数组": "props.pageProps.searchMovieList.data", "搜索图片": "pic", "搜索标题": "name", "搜索链接": "id", "搜索副标题": "resolution", "搜索链接前缀": "https://hei19.com/detail/", "影片年代": "props.pageProps.videoDetail.videoinfo.year", "影片地区": "props.pageProps.videoDetail.videoinfo.area", "影片类型": "props.pageProps.videoDetail.videoinfo.type", "导演": "props.pageProps.videoDetail.videoinfo.director[].name(♥)", "主演": "props.pageProps.videoDetail.videoinfo.starring[].name(♥)", "简介": "props.pageProps.videoDetail.videoinfo.introduction", "线路标题": "播放列表", "播放二次截取": "type=\"application/json\">&&", "播放列表": "props.pageProps.videoDetail.videoepisode.data", "播放标题": "episode", "播放链接": "url" } },
 	{
@@ -526,7 +520,8 @@
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
         "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
       }
-    },{
+    },
+    {
       "key": "黑狐",
       "name": "1080P┃黑狐",
       "type": 3,
@@ -873,7 +868,7 @@
     {
       "name": "小米无敌",
       "type": 1,
-      "url": "http://www.mpanso.com/62-2.php?url=",
+      "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
       "ext": {
         "flag": [
           "qq",
@@ -902,7 +897,7 @@
     {
       "name": "小米无敌2",
       "type": 1,
-      "url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=",
+      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
       "ext": {
         "flag": [
           "qq",
@@ -931,7 +926,7 @@
     {
       "name": "腾4K",
       "type": 1,
-      "url": "http://www.mpanso.com/62-1.php?url=",
+      "url": "http://www.mpanso.com/woaini.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -956,50 +951,7 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
-    {
-      "name": "小米",
-      "type": 1,
-      "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=gG4Iq5xVZXc8R4jmTn&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-			{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-			{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
-			{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-			{"name":"ok","type":0,"url":"https://okjx.cc/?url="},
-			{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
-			{"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-			{"name":"cod","type":0,"url":"https://ksksl.codjx.com/?url="},
-			{"name":"byg解析","type":0,"url":"https://byg.ziqj5.shop/?url="},
-			{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
-			{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-			{"name":"26db","type":0,"url":"http://vip.26db.cn/g/?url="},
-			{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
-			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
-			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
+    }
 		],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
