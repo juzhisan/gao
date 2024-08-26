@@ -18,9 +18,10 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=lives"
-    },{
-      "key": "测压已通过",
-      "name": "🌟摸鱼追觅┃4K解析",
+    },
+    {
+      "key": "测压1",
+      "name": "🌟千秋槿凉┃追觅解析",
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
@@ -28,6 +29,35 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ly4k.llys.online/api.php/app/"
+    },
+    {
+      "key": "测压2",
+      "name": "🌟墨城烟柳┃追觅解析",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://llys.llys.online/api.php/app/"
+    },
+    {
+      "key": "测压3",
+      "name": "🌟离歌乱雁┃追觅解析",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://gj4k.llys.online/api.php/app/"
+    },
+    {
+      "key": "测压4",
+      "name": "🌟青衫入雨┃追觅解析",
+      "type": 3,
+      "api": "https://yydf.540734621.xyz/QQ/js/drpy2.min.js",
+      "ext": "https://yydf.540734621.xyz/QQ/js/mangguo.js"
     },
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/pg.jar"},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
@@ -738,7 +768,40 @@
         "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
       },"jar": "./jar/XBPQ.jar"
-    },{
+    },
+    {
+      "key": "drpy_js_黑木耳资源",
+      "name": "木耳|影视",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
+    },
+    {
+      "key": "✨YY影视✨",
+      "name": "UU|影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://uuys.cc",
+        "二次截取": "module-page&&<div id=\"page\">",
+        "数组": "<a&&</div></div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "✨宝盒专享✨+module-item-note&&</div>",
+        "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+        "线路标题": "宝盒专享✨+<span>&&</span>+【共+<small>&&</small>+集】",
+        "播放数组": "module-play-list\"&&</div>",
+        "播放标题": "宝盒专享✨+>&&</",
+        "简介": "✨宝盒提醒：请勿相信视频里的广告！✨+<p>&&</p >",
+        "搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+      },"jar": "./jar/XBPQ.jar"
+    },
+    {
       "key": "hipy_js_央视大全",
       "name": "央视大全",
       "type": 3,
@@ -1295,6 +1358,33 @@
       "name": "摸鱼测压",
       "type": 1,
       "url": "http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "追觅",
+      "type": 1,
+      "url": "http://追觅.摸鱼儿.top/zhuimi.php?url=",
       "ext": {
         "flag": [
           "qq",
