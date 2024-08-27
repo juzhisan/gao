@@ -20,39 +20,6 @@
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=lives"
     },
     {
-      "key": "测压1",
-      "name": "🌟千秋槿凉┃追觅解析",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ly4k.llys.online/api.php/app/"
-    },
-    {
-      "key": "测压2",
-      "name": "🌟墨城烟柳┃追觅解析",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://llys.llys.online/api.php/app/"
-    },
-    {
-      "key": "测压3",
-      "name": "🌟离歌乱雁┃追觅解析",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://gj4k.llys.online/api.php/app/"
-    },
-    {
       "key": "测压4",
       "name": "🌟青衫入雨┃追觅解析",
       "type": 3,
@@ -195,7 +162,19 @@
       "quickSearch": 1,
       "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
-   
+   {
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
+    },
     {
       "key": "小点",
       "name": "💥小点┃多线",
@@ -370,6 +349,12 @@
             },
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"
         },
+    {
+      "key": "csp_SP360",
+      "name": "🐠360┃1080P",
+      "type": 3,
+      "api": "csp_SP360","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
     {
       "key": "csp_zhizhen",
       "name": "🌹至臻┃4K4K",
@@ -1296,6 +1281,35 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "小米无敌",
+      "type": 1,
+      "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
       "name": "驹之三测试",
