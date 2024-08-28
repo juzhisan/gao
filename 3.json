@@ -20,6 +20,17 @@
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=lives"
     },
     {
+      "key": "测压1",
+      "name": "🌟千秋槿凉┃追觅解析",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cms.kkkw.tv/api.php/app/"
+    },
+    {
       "key": "测压4",
       "name": "🌟青衫入雨┃追觅解析",
       "type": 3,
@@ -1372,6 +1383,33 @@
       "name": "摸鱼测压",
       "type": 1,
       "url": "http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "追觅1",
+      "type": 1,
+      "url": "http://zhuimi996.xn--v4q818bf34b.top/zhuimi.php?url=",
       "ext": {
         "flag": [
           "qq",
