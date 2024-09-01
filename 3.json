@@ -394,6 +394,16 @@
       "api": "csp_SP360","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
     {
+      "key": "csp_瓜子",
+      "name": "🌰瓜子┃1080P",
+      "api": "csp_Gz360",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+    {
       "key": "csp_zhizhen",
       "name": "🌹至臻┃4K4K",
       "type": 3,
