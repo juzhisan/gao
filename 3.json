@@ -32,6 +32,18 @@
       "ext": "http://www.mpanso.com/小米/ttt1.js"
     },
     { "key": "万色山川", "name": "🏔️万色山川┃4K纯净", "type": 3, "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0, "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/123qq.js" },
+    {
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+    },
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/pg.jar"},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
   {
@@ -1330,6 +1342,35 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "1080",
+      "type": 1,
+      "url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
       "name": "小米无敌",
