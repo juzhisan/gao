@@ -20,18 +20,29 @@
       "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=lives"
     },
     {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🌞腾腾┃解析",
+      "key": "万色山川",
+      "name": "🤍万色山川┃4K解析",
       "type": 3,
-      "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "http://www.mpanso.com/小米/ttt1.js"
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/123qq.js"
     },
-    { "key": "万色山川", "name": "🏔️万色山川┃4K纯净", "type": 3, "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "changeable": 0, "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/123qq.js" },
+    {
+      "key": "青衫入雨",
+      "name": "🧡青衫入雨┃4K解析",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
+    },
     {
       "key": "Wexkoukou",
       "name": "🌺扣扣┃4K🌺",
@@ -1608,6 +1619,19 @@
       "ua": "",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Live"
+    },
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },{
+      "name": "TV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1
     },
 {"name":"Ray•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name":"初秋语•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
