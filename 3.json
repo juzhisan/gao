@@ -1362,10 +1362,30 @@
       "type": 3,
       "url": "Web"
     },
-    {
-      "name": "1080",
+   {
+      "name": "王",
       "type": 1,
-      "url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=",
+      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+    },
+    {
+      "name": "二",
+      "type": 1,
+      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+    },
+    {
+      "name": "小",
+      "type": 1,
+      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+    },
+    {
+      "name": "帅",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "4K解析",
+      "type": 1,
+      "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1392,38 +1412,9 @@
       }
     },
     {
-      "name": "小米无敌",
+      "name": "何必",
       "type": 1,
-      "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "追迷",
-      "type": 1,
-      "url": "http://103.117.123.51:2121/zhuimi666.php?url=",
+      "url": "http://www.mpanso.com/小姐姐/何必呢.php?url=",
       "ext": {
         "flag": [
           "qq",
