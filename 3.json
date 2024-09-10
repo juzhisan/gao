@@ -1,4 +1,4 @@
-{ "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar", "wallpaper":"https://jianbian.chuqiuyu.workers.dev", 
+{ "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725896177022/wex.txt", "wallpaper":"https://jianbian.chuqiuyu.workers.dev", 
  "sites":[{
       "key": "豆豆",
       "name": "豆瓣┃主页",
@@ -49,7 +49,7 @@
       "type": 3,
       "api": "csp_Wexkoukou",
       "searchable": 1,
-      "changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725896177022/wex.txt"
+      "changeable": 1
     },
     {
       "key": "Wexjiazitv",
@@ -57,14 +57,14 @@
       "type": 3,
       "api": "csp_Wexjiazitv",
       "searchable": 1,
-      "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725896177022/wex.txt"
+      "changeable": 1
     },{
       "key": "Wexshandian",
       "name": "🌺闪电┃秒播🌺",
       "type": 3,
       "api": "csp_Wexshandian",
       "searchable": 1,
-      "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725896177022/wex.txt"
+      "changeable": 1
     },
     {
       "key": "guoguo",
