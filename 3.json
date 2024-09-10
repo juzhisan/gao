@@ -49,7 +49,7 @@
       "type": 3,
       "api": "csp_Wexkoukou",
       "searchable": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+      "changeable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
     },
     {
       "key": "Wexjiazitv",
@@ -57,14 +57,14 @@
       "type": 3,
       "api": "csp_Wexjiazitv",
       "searchable": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+      "changeable": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
     },{
       "key": "Wexshandian",
       "name": "🌺闪电┃秒播🌺",
       "type": 3,
       "api": "csp_Wexshandian",
       "searchable": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+      "changeable": 1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
     },
     {
       "key": "guoguo",
