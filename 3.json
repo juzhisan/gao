@@ -65,6 +65,17 @@
             "indexs": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
         },
     {
+      "key": "醉挽清风",
+      "name": "💯醉挽清风┃4K纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+    },
+    {
       "key": "csp_瓜子",
       "name": "🌰瓜子┃1080P",
       "api": "csp_Gz360",
@@ -1186,6 +1197,33 @@
         "header": {
           "User-Agent": "okhttp/4.9.1"
         }
+      }
+    },
+    {
+      "name": "zhuimi-mini",
+      "type": 1,
+      "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
       }
     }
 		],
