@@ -119,6 +119,29 @@
       "changeable": 0,
       "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
     },
+    {
+      "key": "Wexshandian",
+      "name": "🌺闪电┃秒播🌺",
+      "type": 3,
+      "api": "csp_Wexshandian",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },{
+      "key": "Wexkoukou",
+      "name": "🌺扣扣┃4K🌺",
+      "type": 3,
+      "api": "csp_Wexkoukou",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
+    {
+      "key": "Wexjiazitv",
+      "name": "🌺甲子┃4K🌺",
+      "type": 3,
+      "api": "csp_Wexjiazitv",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/pg.jar"},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
   {
