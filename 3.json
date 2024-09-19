@@ -43,7 +43,39 @@
             "changeable": 0,
             "indexs": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
         },
-    
+    {
+      "key": "醉挽清风",
+      "name": "💯醉挽清风┃4K纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+    },{
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🌞腾腾┃解析",
+      "type": 3,
+      "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
+    },{
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+    },
     {
       "key": "csp_瓜子",
       "name": "🌰瓜子┃1080P",
@@ -1089,35 +1121,6 @@
                 }
             }
         },
-   {
-      "name": "4K解析",
-      "type": 1,
-      "url": "http://1.xiaomi666.work.gd/aini10.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
     {
       "name": "4K解析1",
       "type": 1,
@@ -1148,9 +1151,9 @@
       }
     },
     {
-      "name": "1080解析",
+      "name": "zhuimi-super",
       "type": 1,
-      "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
+      "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1166,17 +1169,14 @@
           "乐视",
           "mgtv",
           "芒果",
-          "tnmb",
-          "seven",
+          "rx",
+          "ltnb",
           "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
+          "1905",
+          "xigua"
+        ]
       }
     }
-    
 		],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
