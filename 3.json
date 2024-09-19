@@ -26,27 +26,6 @@
             "searchable": 1,
             "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
         },{
-            "key": "Wexyingso",
-            "name": "🎠影子┃综合🎠",
-            "type": 3,
-            "api": "csp_Wexyingso",
-            "searchable": 1,
-            "changeable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
-        },{
-            "key": "Wextyso",
-            "name": "🎠给力┃天逸🎠",
-            "type": 3,
-            "api": "csp_Wextyso",
-            "searchable": 1,
-            "changeable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
-        },{
-            "key": "Wexnullname",
-            "name": "💓无名┃4K💓",
-            "type": 3,
-            "api": "csp_Wexnullname",
-            "searchable": 1,
-            "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
-        },{
             "key": "Wexconfig",
             "name": "🐮通用类型┃配置中心🐮",
             "type": 3,
@@ -118,29 +97,6 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
-    },
-    {
-      "key": "Wexshandian",
-      "name": "🌺闪电┃秒播🌺",
-      "type": 3,
-      "api": "csp_Wexshandian",
-      "searchable": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
-    },{
-      "key": "Wexkoukou",
-      "name": "🌺扣扣┃4K🌺",
-      "type": 3,
-      "api": "csp_Wexkoukou",
-      "searchable": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
-    },
-    {
-      "key": "Wexjiazitv",
-      "name": "🌺甲子┃4K🌺",
-      "type": 3,
-      "api": "csp_Wexjiazitv",
-      "searchable": 1,
-      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
     },
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/pg.jar"},
   //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
@@ -342,7 +298,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
-    },
+    },{
+            "key": "天天影视",
+            "name": "天天｜APP",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
             "key": "瓜子｜影视",
             "name": "瓜子｜影视",
@@ -1166,6 +1130,35 @@
       "name": "4K解析",
       "type": 1,
       "url": "http://1.xiaomi666.work.gd/aini10.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "4K解析1",
+      "type": 1,
+      "url": "http://115.231.220.139:8555/api/index?parsesId=2&appid=10000&videoUrl=",
       "ext": {
         "flag": [
           "qq",
