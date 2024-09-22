@@ -135,6 +135,47 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"
+        },{
+            "key": "混合盘",
+            "name": "混合盘┃网盘搜索pg",
+            "type": 3,
+            "api": "csp_HunHePan",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"
+        },{
+            "key": "秒搜",
+            "name": "秒搜┃网盘搜索pg",
+            "type": 3,
+            "api": "csp_MiaoSou",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"
+        },{
+            "key": "易搜",
+            "name": "易搜┃网盘搜索pg",
+            "type": 3,
+            "api": "csp_YiSo",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/yiso.txt","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"
+        },{
+            "key": "小纸条",
+            "name": "小纸条┃网盘搜索pg",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "./lib/tokenm.json$$$https://ali.gitcafe.ink/$$$null$$$1","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"
         },
 {
       "key": "push_agent",
