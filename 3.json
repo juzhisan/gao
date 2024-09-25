@@ -349,7 +349,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    
    {
             "key": "大米星球",
             "name": "大米｜APP",
@@ -378,16 +377,6 @@
             "filterable": 1
         },
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
-	{
-            "key": "疯狗影视",
-            "name": "疯狗影视",
-            "type": 3,
-            "api": "csp_FengGo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar": ""
-        },
-	
   {
             "key": "视频库",
             "name": "视频库",
@@ -398,33 +387,47 @@
             "filterable": 0,
             "ext": "https://vidhub1.cc","jar": ""
         },
-   {
-            "key": "爱看影视",
-            "name": "爱看影视",
-            "type": 3,
-            "api": "csp_Ikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar": ""
-        },{
-            "key": "机器人",
-            "name": "机器人｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://v.aikanbot.com"
-        },
-    
     {
-      "key": "csp_Nkdy",
-      "name": "🥛耐看┃APP",
+      "key": "csp_JPYY",
+      "name": "🥇金牌┃1080P",
       "type": 3,
-      "api": "csp_Nkdy",
-      "playerType": 2,
-      "filterable": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
-    },{
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+    {
+      "key": "csp_subaobai",
+      "name": "✍️白白┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_SuBaiBai",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+    {
+      "key": "君君",
+      "name": "🚗君君┃1080P",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+    {
+      "key": "csp_yunbo",
+      "name": "☁️️云播┃108P",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "playerType": 2,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+  {
       "key": "QIYIU",
       "name": "🦌奇优┃影视",
       "type": 3,
@@ -550,18 +553,7 @@
         "奇幻片",
         "国产综艺"
       ]
-    },{
-      "key": "君君",
-      "name": "🚗君君┃4K",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
     },
-   
   {
       "key": "小米",
       "name": "📺米米┃1080P",
