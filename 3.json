@@ -428,15 +428,55 @@
       "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
     {
-      "key": "君君",
-      "name": "🚗君君┃1080P",
+      "key": "hipy_闪电",
+      "name": "⚡️闪电┃1080P",
       "type": 3,
-      "changeable": 0,
-      "api": "csp_AppYsV2",
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./闪电.js"
+    },{
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+    },{
+      "key": "junjun",
+      "name": "🚗君君┃1080",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://www.mpanso.com/appys.js",
+      "ext": {
+        "host": "http://122.228.85.203:1000/api.php/app/",
+        "*": [
+          "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+          "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+        ]
+      }
+    },{
+      "key": "GUAZI",
+      "name": "🥁瓜子┃1080",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://www.mpanso.com/appys.js",
+      "ext": {
+        "host": "http://110.42.37.106:7788/api.php/app/",
+        "*": [
+          "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+          ""
+        ]
+      }
     },
     {
       "key": "csp_yunbo",
