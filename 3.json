@@ -59,7 +59,6 @@
     },
     
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
-  //{"key":"荐片","name":"荐片jun","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1},
   {
       "key": "88js",
       "name": "⚽ 88┃看球",
@@ -333,6 +332,21 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
+    },
+    {
+      "key": "肥猫4K",
+      "name": "🖍┃肥猫┃4K",
+      "type": 3,
+      "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/json/js/drpy.min.js",
+      "ext": "http://js.xn--z7x900a.com/肥猫4K.js",
+      "searchable": 0
+    },{
+      "key": "Ivdy",
+      "name": "💖┃Ivdy┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://js.xn--z7x900a.com/json/ivdy.json",
+      "searchable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
     {
       "key": "看球",
