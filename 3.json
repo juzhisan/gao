@@ -29,6 +29,17 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+    },{
+      "key": "小满万全",
+      "name": "🌀小满万全┃4K纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
     },
     {
       "key": "csp_SP360",
@@ -1383,7 +1394,7 @@
     {
       "name": "zhuimi-super",
       "type": 1,
-      "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
+      "url": "http://moyu.zhuimi.top/zhuimi666.php?url=",
       "ext": {
         "flag": [
           "qq",
