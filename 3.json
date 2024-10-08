@@ -9,16 +9,7 @@
       "filterable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
     {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
-    {"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},{
-      "key": "直播转点播",
-      "name": "📺️IPV6┃电视┃直播",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/api/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=lives"
-    },
+    {"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
     {
       "key": "醉挽清风",
       "name": "💯醉挽清风┃4K纯净",
@@ -41,23 +32,6 @@
       "changeable": 0,
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
     },
-    {
-      "key": "csp_SP360",
-      "name": "🐠360┃1080P",
-      "type": 3,
-      "api": "csp_SP360","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
-    },
-    {
-      "key": "csp_瓜子",
-      "name": "🌰瓜子┃1080P",
-      "api": "csp_Gz360",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
-    },
-    
    {
       "key": "摸鱼瓜子",
       "name": "❤️嗑嗑瓜子┃2K纯净",
@@ -389,19 +363,20 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    {
-            "key": "瓜子｜影视",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },{
+   {
             "key": "饺子影视",
             "name": "饺子｜影视",
             "type": 3,
             "api": "csp_Jiaozi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瓜子｜影视",
+            "name": "瓜子｜影视",
+            "type": 3,
+            "api": "csp_Gz360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -631,37 +606,6 @@
         "搜索副标题": "标签:&&</label>",
         "搜索链接": "href=\"&&\""
       }
-    },{
-      "key": "蚂蚁",
-      "name": "🌞去广┃测试",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
-      "categories": [
-        "爽文短剧",
-        "国产剧",
-        "国产动漫",
-        "动画电影",
-        "网络电影",
-        "动作片",
-        "喜剧片",
-        "灾难片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "武侠片",
-        "奇幻片",
-        "国产综艺"
-      ]
     },
   {
       "key": "小米",
@@ -702,17 +646,6 @@
         "播放链接": "解析+$&&\"",
         "跳转播放链接": "url\"*\"&&\""
       }
-    },
-    
-    {
-      "key": "鸭奈飞",
-      "name": "影视 | 鸭奈飞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "分类url:https://www.yanaifei.me/vod/type/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4","jar": "./jar/XBPQ.jar"
     },
     {
       "key": "drpy_js_黑木耳资源",
@@ -784,7 +717,6 @@
       "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/白嫖.json",
       "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar"
     },
-   {"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$null$$$noproxy$$$1","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
  {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"./json/jianpian.json$$$1", "timeout":60,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
 {"key":"Local","name":"本地","type":3,"api":"csp_Local","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/token.json$$$./lib/pushshare.txt$$$db$$$1",
@@ -836,16 +768,9 @@
 			},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"
 		},
 		{"key":"SambaShare","name":"Samba分享","type":3,"api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/token.json$$$./lib/sambashare.txt","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
- {"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
-{"key": "Yinyuetai","name": "音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
-{"key":"酷狗","name":"酷狗","type":3,"api":"csp_Kugou","searchable":1,"changeable":0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
   {"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/XYQ.jar"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar"},    
-  {"key": "小白","name": "小白","type": 3,"api": "csp_XBPQ","playerType": 1,"timeout":60,"jar": "./jar/XBPQ.jar","ext": "./XBPQ/小白.json"},
 {"key":"布谷tv","name":"布谷4K","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XBPQ.jar","ext":"./XBPQ/布谷4K.json"},
-{"key": "haokongbu","name": "好恐怖","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好恐怖.json","jar": "./jar/XBPQ.jar"},
-{"key": "rarbt","name": "rarbt","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext":"./XBPQ/rarbt.json" ,"jar":"./jar/XBPQ.jar"},
-    {"key":"t9-caiji","name":"影视-采集(t9)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 	{
             "key": "量子资源",
             "name": "量子资源",
