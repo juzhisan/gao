@@ -10,39 +10,6 @@
     },
     {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
     {"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
-    {
-      "key": "醉挽清风",
-      "name": "💯醉挽清风┃4K纯净",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
-    },{
-      "key": "小满万全",
-      "name": "🌀小满万全┃4K纯净",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
-    },
-   {
-      "key": "摸鱼瓜子",
-      "name": "❤️嗑嗑瓜子┃2K纯净",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
-    
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leevi0709/one/main/pg.jar"},
   {
       "key": "88js",
