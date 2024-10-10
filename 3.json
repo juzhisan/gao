@@ -431,17 +431,30 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/闪电.js"
-    },{
-      "key": "guoguo",
-      "name": "🌞果果┃解析",
+    },
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🌞腾腾┃解析",
       "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+      "ext": "http://www.mpanso.com/小米/ttt111222.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo111222.js"
     },{
       "key": "junjun",
       "name": "🚗君君┃1080",
@@ -452,11 +465,11 @@
       "ext": {
         "host": "http://122.228.85.203:1000/api.php/app/",
         "*": [
-          "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
           "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
         ]
       }
-    },{
+    },
+    {
       "key": "GUAZI",
       "name": "🥁瓜子┃1080",
       "type": 3,
@@ -470,18 +483,6 @@
           ""
         ]
       }
-    },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🌞腾腾┃解析",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://www.mpanso.com/小米/ttt.js"
     },
     {
       "key": "csp_yunbo",
