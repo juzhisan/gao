@@ -325,15 +325,7 @@
         "type": "list"
       },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
-   {
-      "key": "csp_Vidhub2",
-      "name": "🎼┃Vid┃影视",
-      "type": 3,
-      "api": "csp_Vidhub2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
-    },{
+  {
             "key": "天天影视",
             "name": "天天｜APP",
             "type": 3,
