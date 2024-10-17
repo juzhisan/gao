@@ -382,11 +382,11 @@
         ]
       }
     },
-    {
+   {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "🌞腾腾┃解析",
       "type": 3,
-      "api": "https://gitea.moe/NB666/netdisk/raw/branch/main/drpy_libs/drpy2.min.js",
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -398,7 +398,7 @@
       "key": "guoguo",
       "name": "🌞果果┃解析",
       "type": 3,
-      "api": "https://gitea.moe/NB666/netdisk/raw/branch/main/drpy_libs/drpy2.min.js",
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
