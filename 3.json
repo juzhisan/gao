@@ -21,6 +21,14 @@
       "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
     },
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8},"jar": ""},
+    {
+      "key": "荐片",
+      "name": "🎬荐片┃磁力",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "1",
+      "ext": "http://api2.rinhome.com","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
   {
       "key": "926看球",
       "name": "⚽926┃看球",
@@ -371,6 +379,26 @@
       "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
     {
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+    },
+    {
+      "key": "QIYIU",
+      "name": "🦌奇优┃1080P",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_Qiyou",
+      "playerType": "1","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+    {
       "key": "hipy_闪电",
       "name": "⚡️闪电┃1080P",
       "type": 3,
@@ -516,7 +544,22 @@
         "搜索链接": "href=\"&&\""
       }
     },
- 
+   {
+      "key": "哔嘀影视",
+      "name": "🎇喇叭┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBDys",
+      "searchable": 1,
+      "changeable": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
+    {
+      "key": "Wexbaozitv",
+      "name": "🎇包子┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexbaozitv",
+      "searchable": 1,
+      "changeable": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
     {
       "key": "drpy_js_黑木耳资源",
       "name": "木耳|影视",
