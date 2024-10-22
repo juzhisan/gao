@@ -544,22 +544,6 @@
         "搜索链接": "href=\"&&\""
       }
     },
-   {
-      "key": "哔嘀影视",
-      "name": "🎇喇叭┃秒播🎇",
-      "type": 3,
-      "api": "csp_WexBDys",
-      "searchable": 1,
-      "changeable": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
-    },
-    {
-      "key": "Wexbaozitv",
-      "name": "🎇包子┃秒播🎇",
-      "type": 3,
-      "api": "csp_Wexbaozitv",
-      "searchable": 1,
-      "changeable": 1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
-    },
     {
       "key": "drpy_js_黑木耳资源",
       "name": "木耳|影视",
