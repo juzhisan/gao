@@ -456,30 +456,7 @@
       "filterable": 1,
       "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
-    {
-      "key": "guoguo",
-      "name": "🌞果果┃解析",
-      "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-    },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🌞腾腾┃解析",
-      "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
-    },
+    
     {
       "key": "QIYIU",
       "name": "🦌奇优┃1080P",
@@ -663,7 +640,6 @@
       "order_num": 0,
       "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/4K-AV.js"
     },
- {"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"./json/jianpian.json$$$1", "timeout":60,"jar": ""},
 {"key":"Local","name":"本地","type":3,"api":"csp_Local","jar": ""},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/token.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
