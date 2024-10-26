@@ -339,6 +339,17 @@
       "changeable": 1,
       "ext": "https://www.czzy77.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
+    {
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
+    },
    {
       "key": "alllive",
       "name": "📽️一直播┃LIVE",
@@ -456,6 +467,18 @@
       "order_num": 0,
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+    },
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🌞腾腾┃解析",
+      "type": 3,
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
     },
     {
       "key": "QIYIU",
