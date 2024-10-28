@@ -409,30 +409,11 @@
       "searchable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
     {
-      "key": "csp_Nkdy",
-      "name": "🏔️┃耐看┃影视",
-      "type": 3,
-      "api": "csp_Nkdy","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
-    },
-    {
       "key": "csp_J",
       "name": "🌎┃饺子┃外剧",
       "type": 3,
       "api": "csp_Jiaozi",
       "playerType": 2,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
-    },
-    {
-      "key": "看球",
-      "name": "⚾┃看球┃直播",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
     {
       "key": "csp_JPYY",
