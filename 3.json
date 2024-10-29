@@ -29,6 +29,17 @@
       "playerType": "1",
       "ext": "http://api2.rinhome.com","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
+ {
+      "key": "ConfigCenter",
+      "name": "真心配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json"
+      },"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/zx.jar"
+    },
     {
       "key": "网盘集合",
       "name": "网盘集合|4K",
