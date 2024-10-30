@@ -791,30 +791,6 @@
       "changeable": 0,
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
     },
-    {
-      "key": "Wexkoukou",
-      "name": "牛娃扣扣1┃4K解析",
-      "type": 3,
-      "api": "csp_Wexkoukou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730213607226/wex.txt;md5;804da722608baed365272dd1bddb39e4",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexkoukou2",
-      "name": "牛娃扣扣2┃4K解析",
-      "type": 3,
-      "api": "csp_Wexkoukou2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730213607226/wex.txt;md5;804da722608baed365272dd1bddb39e4",
-      "searchable": 1,
-      "changeable": 1
-    },{
-      "key": "完美弹幕",
-      "name": "完美｜4k测试",
-      "type": 3,
-      "api": "https://gitee.com/lanny520/tv/raw/master/JS/drpy2.min.js",
-      "ext": "https://gitee.com/lanny520/tv/raw/master/JS/完美弹幕.js"
-    },
     {"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1},"jar": ""} ],
   "parses":[{
       "name": "Json聚合",
