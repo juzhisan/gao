@@ -433,13 +433,6 @@
       "searchable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
     },
     {
-      "key": "csp_J",
-      "name": "🌎┃饺子┃外剧",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "playerType": 2,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/Panda.jar"
-    },
-    {
       "key": "csp_JPYY",
       "name": "🥇金牌┃1080P",
       "type": 3,
@@ -449,6 +442,31 @@
       "playerType": 1,
       "filterable": 1,
       "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },{
+      "key": "瓜子",
+      "name": "🍉瓜子┃APP",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "🌽耐看┃影视",
+      "type": 3,
+      "api": "csp_Nkdy","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },{
+      "key": "饺子影视",
+      "name": "🥟饺子┃外剧┃纯净",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_subaobai",
@@ -461,7 +479,6 @@
       "filterable": 1,
       "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
-    
     {
       "key": "QIYIU",
       "name": "🦌奇优┃1080P",
@@ -469,17 +486,6 @@
       "changeable": 0,
       "api": "csp_Qiyou",
       "playerType": "1","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
-    },
-    {
-      "key": "瓜子",
-      "name": "🍉瓜子┃APP",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
     {
       "key": "hipy_闪电",
