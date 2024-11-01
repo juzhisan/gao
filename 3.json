@@ -804,6 +804,23 @@
       "changeable": 0,
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
     },
+    {
+      "key": "梦幻心移",
+      "name": "🌀️梦幻心移┃4K纯净",
+      "playerType": 1,
+      "type": 3,
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "http://我不是.摸鱼儿.com/json/js/mhxy.js",
+      "ext": {
+        "host": "http://103.38.82.59:3347/api.php/app/",
+        "*": [
+          "http://103.38.82.59:9527/zhuimi888.php?url="
+        ]
+      }
+    },
     {"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1},"jar": ""} ],
   "parses":[{
       "name": "Json聚合",
