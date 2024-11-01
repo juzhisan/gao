@@ -255,13 +255,6 @@
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
     },
-    {
-      "key": "完美弹幕",
-      "name": "完美｜4k测试",
-      "type": 3,
-      "api": "https://gitee.com/lanny520/tv/raw/master/JS/drpy2.min.js",
-      "ext": "https://gitee.com/lanny520/tv/raw/master/JS/完美弹幕.js"
-    },
 	{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
 	{"key":"Funletu","name":"趣盘搜|夸克搜索","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json",
 			"style": {
@@ -461,11 +454,6 @@
       "changeable": 0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
     },
     {
-      "key": "csp_Nkdy",
-      "name": "🌽耐看┃影视",
-      "type": 3,
-      "api": "csp_Nkdy","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
-    },{
       "key": "饺子影视",
       "name": "🥟饺子┃外剧┃纯净",
       "type": 3,
@@ -476,15 +464,22 @@
       "filterable": 1
     },
     {
-      "key": "csp_subaobai",
-      "name": "✍️白白┃1080P",
+      "key": "csp_Wwys",
+      "name": "🐶汪汪┃1080P",
       "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_SuBaiBai",
       "playerType": 1,
-      "filterable": 1,
-      "ext": "","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/xm.jar"
+    },
+    {
+      "key": "🌟客星",
+      "name": "🌟客星┃1080P",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
     },
     {
       "key": "QIYIU",
@@ -516,43 +511,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    {
-      "key": "非凡┃无广",
-      "name": "📺非凡┃测试",
-      "type": 0,
-      "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "大陆综艺",
-        "欧美综艺",
-        "日韩综艺",
-        "港台综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
     {
       "key": "小MI",
       "name": "📺米搜┃独家",
@@ -594,69 +552,11 @@
       }
     },
     {
-      "key": "4K",
-      "name": "🦊超强┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": {
-        "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-        "编码": "UTF-8",
-        "主页url": "https://4k-av.com",
-        "首页": "120",
-        "起始页": "1",
-        "分类url": "/{cateId}{class}/page-{catePg}.html[https://4k-av.com/{cateId}{class}];;rcS1",
-        "分类": "电影&剧集",
-        "分类值": "movie&tv",
-        "数组": "tags\">&&</a>",
-        "标题": "alt=\"&&海报",
-        "图片": "src=\"&&\"",
-        "副标题": "标签:&&</label>",
-        "链接": "href=\"&&\"",
-        "影片年代": "年份:&&</a>",
-        "影片地区": "片长:&&</label>",
-        "影片类型": "标签:&&</div>",
-        "状态": "videodetail\">&&</label>",
-        "简介": "cnline\">&&</p>",
-        "线路数组": "videoinfo\">&&</div>",
-        "线路标题": "超强影视",
-        "播放二次截取": "infomain\">&&reidnull[替换:href>>rtlist\"><img<span>第1集</span>src#poster.jpg>>\"</li></ul>]",
-        "播放数组": "rtlist\">&&</ul>",
-        "倒序": "0",
-        "播放列表": "<img&&</li>[替换:screenshot.jpg>>空]",
-        "播放标题": "<span*>&&</span>",
-        "播放链接": "src=\"&&\"",
-        "跳转播放链接": "<source src=\"&&\"",
-        "搜索请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-        "搜索url": "/s?q={wd}",
-        "搜索模式": "1",
-        "搜索标题": "title=\"&&/",
-        "搜索图片": "src=\"&&\"",
-        "搜索副标题": "标签:&&</label>",
-        "搜索链接": "href=\"&&\""
-      }
-    },
-    {
       "key": "drpy_js_黑木耳资源",
       "name": "木耳|影视",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
-    },
-    {
-      "key": "hipy_js_4K-AV",
-      "name": "4K-AV",
-      "type": 3,
-      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/4K-AV.js"
     },
 {"key":"Local","name":"本地","type":3,"api":"csp_Local","jar": ""},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/token.json$$$./lib/pushshare.txt$$$db$$$1",
@@ -871,7 +771,7 @@
         }
       }
     },
-    {"name": "傻逼聊解析","url": "https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=","type": 1,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
+    {"name": "聊解析","url": "https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=","type": 1,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
     {
       "name": "zhuimi-super",
       "type": 1,
