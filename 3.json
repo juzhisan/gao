@@ -501,6 +501,16 @@
       "changeable": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/闪电.js"
     },
+    {
+      "key": "耐看影视",
+      "name": "🍡耐看┃蓝光┃无广",
+      "type": 3,
+      "api": "csp_WebNK",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
    {
             "key": "瓜子影视",
             "name": "🍉瓜子┃蓝光┃纯净",
