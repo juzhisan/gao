@@ -717,7 +717,18 @@
       "changeable": 0,
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
     },
-   
+   {
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+    },
     {"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"","ext":"https://fm.t4tv.hz.cz/json/market.json","style":{"type":"rect","ratio":1},"jar": ""} ],
   "parses":[{
       "name": "Json聚合",
@@ -743,6 +754,35 @@
       "name": "4k解析",
       "type": 1,
       "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "1080解析1",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
