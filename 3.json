@@ -64,12 +64,12 @@
         "type": "list"
       },"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
-    {
+   {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/88看球.js",
       "style": {
         "type": "list"
       },
@@ -81,8 +81,8 @@
       "key": "310js",
       "name": "⚽ 310┃看球",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
       "style": {
         "type": "list"
       },
@@ -94,27 +94,14 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
       "style": {
         "type": "list"
       },
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "企鹅xp",
-      "name": "🐧鹅鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
   {"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/token.json","jar": ""},
 {"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/token.json$$$https://www.91panta.cn/$$$null$$$1","jar": ""},
