@@ -8,8 +8,8 @@
       "quickSearch": 0,
       "filterable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/fan.txt"
     },
-    {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
-    {"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
+    {"key":"lf_js_search","name":"搜索 | 路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/gao/master/lib/lf_search3_min.js"},
+    {"key":"lf_js_lf_live","name":"路飞 | 直播[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/gao/master/js/lf_live.txt"},
     {
       "key": "直播转点播",
       "name": "📺️IPV6┃电视┃直播",
@@ -565,6 +565,44 @@
                 "欧美综艺"
             ]
         },
+   {
+      "key": "Wextyso",
+      "name": "🎠给力┃天逸🎠",
+      "type": 3,
+      "api": "csp_Wextyso",
+      "searchable": 1,
+      "changeable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },{
+      "key": "Wexshandian",
+      "name": "🌺闪电┃秒播🌺",
+      "type": 3,
+      "api": "csp_Wexshandian",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },{
+      "key": "Wexkoukou",
+      "name": "🌺扣扣┃4K🌺",
+      "type": 3,
+      "api": "csp_Wexkoukou",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
+    {
+      "key": "Wexkoukou2",
+      "name": "🌺扣扣┃4K2🌺",
+      "type": 3,
+      "api": "csp_Wexkoukou2",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
+    {
+      "key": "Wexjiazitv",
+      "name": "🌺甲子┃4K🌺",
+      "type": 3,
+      "api": "csp_Wexjiazitv",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/juzhisan/3/master/wex.txt"
+    },
     {
             "key": "木耳资源",
             "name": "木耳",
